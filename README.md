@@ -11,3 +11,5 @@ Reocords ----- Daily Updates
 9.2.2020 ----- Improve Web Blog, Filtering out the broken links
 
 9.3.2020 ----- Fix the BLOG Images isuue, Filtering out the broken links
+
+9.4.2020 ----- Fix Broken Links
