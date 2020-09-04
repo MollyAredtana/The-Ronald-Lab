@@ -12,4 +12,4 @@ Reocords ----- Daily Updates
 
 9.3.2020 ----- Fix the BLOG Images isuue, Filtering out the broken links
 
-9.4.2020 ----- Fix Broken Links
+9.4.2020 ----- Fix Broken Links, Adding links to the Email page
