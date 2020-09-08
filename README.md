@@ -14,4 +14,4 @@ Reocords ----- Daily Updates
 
 9.4.2020 ----- Fix Broken Links, Adding links to the Email page
 
-9.8.2020 ----- Update Speaking Schedule
+9.8.2020 ----- Update Speaking Schedule, move some speakings to Past Speaking Schedule
