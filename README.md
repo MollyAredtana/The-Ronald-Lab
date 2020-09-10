@@ -18,4 +18,4 @@ Reocords ----- Daily Updates
 
 9.9.2020 ----- Update Alumni page
 
-9.10.2020 ----- Link G Map to The Direction Page
+9.10.2020 ----- Link G Map to The Direction Page, Summarized Doc
