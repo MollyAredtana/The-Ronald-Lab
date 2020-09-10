@@ -17,3 +17,5 @@ Reocords ----- Daily Updates
 9.8.2020 ----- Update Speaking Schedule, move some speakings to Past Speaking Schedule
 
 9.9.2020 ----- Update Alumni page
+
+9.10.2020 ----- Link G Map to The Direction Page
