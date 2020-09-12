@@ -20,4 +20,4 @@ Reocords ----- Daily Updates
 
 9.10.2020 ----- Link G Map to The Direction Page, Summarized Doc
 
-9.11.2020 ----- Update Speaking Schedule
+9.11.2020 ----- Update Speaking Schedule, Check Kitbase Website
