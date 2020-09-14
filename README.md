@@ -22,4 +22,4 @@ Reocords ----- Daily Updates
 
 9.11.2020 ----- Update Speaking Schedule, Check Kitbase Website
 
-9.14.2020 ----- Update Speaking Schedule
+9.14.2020 ----- Update Speaking Schedule, Check All Links
