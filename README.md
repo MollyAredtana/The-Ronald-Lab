@@ -26,5 +26,5 @@ Reocords ----- Daily Updates
 
 9.15.2020 ----- Fix Broken Links
 
-9.16.2020 ----- Update Speaking Schedule, Daily Check, Relink Chinese Book Selling Link to http://product.dangdang.com/23845017.html?_ddclickunion=P-306226-0-s26684007|ad_type=0|sys_id=1#dd_refer=https%3A%2F%2Fbook.douban.com%2Flink2%2F%3Flowest%3D2340%26pre%3D0%26vendor%3Ddangdang%26srcpage%3Dsubject%26price%3D3529%26pos%3D1%26url%3Dhttp%253a%252f%252funion.dangdang.com%252ftransfer.php%253ffrom%253dp-306226-0-s26684007%2526backurl%253dhttp%253a%252f%252fproduct.dangdang.com%252fproduct.aspx%253fproduct_id%253d23845017%26cntvendor%3D3%26srcsubj%3D26684007%26type%3Dbkbuy%26subject%3D26684007
+9.16.2020 ----- Update Speaking Schedule, Daily Check, Relink Chinese Book Selling Link to Dang Dang web's link
 
