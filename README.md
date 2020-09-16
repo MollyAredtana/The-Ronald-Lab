@@ -25,3 +25,5 @@ Reocords ----- Daily Updates
 9.14.2020 ----- Update Speaking Schedule, Check All Links
 
 9.15.2020 ----- Fix Broken Links
+
+9.16.2020 ----- Update Speaking Schedule, Daily Checking
