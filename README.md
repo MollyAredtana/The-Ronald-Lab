@@ -28,5 +28,7 @@ Reocords ----- Daily Updates
 
 9.16.2020 ----- Update Speaking Schedule, Daily Check, Relink Chinese Book Selling Link to Dang Dang web's link
 
-9.17.2020 ----- Daily Update, Alumi Page Update
+9.17.2020 ----- Daily Update, Alumni Page Update
+
+9.18.2020 ----- Daily Update, Fix Alumni Table Boarder
 
