@@ -33,3 +33,5 @@ Reocords ----- Daily Updates
 9.18.2020 ----- Daily Update, Fix Alumni Table Boarder
 
 9.21.2020 ----- Update Speaking Schedule, Search Gene Base
+
+9.22.2020 ----- Gene Base
