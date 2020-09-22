@@ -34,4 +34,4 @@ Reocords ----- Daily Updates
 
 9.21.2020 ----- Update Speaking Schedule, Search Gene Base
 
-9.22.2020 ----- Gene Base
+9.22.2020 ----- Gene Base, Update Speaking Schedule
