@@ -1,0 +1,27 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-21BBCA368C3F5C5C-8A6E3692B70580
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-23T20:12:44	Run time	0:00:00:22
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.2KG433000.1.p	superfamily	386243	48	255	1.24396e-73	226.592	cl12013	BAR superfamily	 - 	 - 
+Q#1 - >Pavir.2KG433000.1.p	superfamily	388381	283	334	8.22411e-18	76.2229	cl17036	SH3 superfamily	 - 	 - 
+Q#2 - >Pavir.2NG505900.1.p	superfamily	386243	48	255	6.12879e-73	225.052	cl12013	BAR superfamily	 - 	 - 
+Q#2 - >Pavir.2NG505900.1.p	superfamily	388381	283	334	9.3813e-18	76.2229	cl17036	SH3 superfamily	 - 	 - 
+Q#3 - >Pavir.7KG268400.1.p	superfamily	386243	43	252	1.76704e-112	326.359	cl12013	BAR superfamily	 - 	 - 
+Q#3 - >Pavir.7KG268400.1.p	superfamily	388381	301	352	1.63701e-14	67.3633	cl17036	SH3 superfamily	 - 	 - 
+Q#4 - >Pavir.7NG264600.1.p	superfamily	386243	43	252	5.49397e-113	327.515	cl12013	BAR superfamily	 - 	 - 
+Q#4 - >Pavir.7NG264600.1.p	superfamily	388381	301	353	2.93004e-15	69.2893	cl17036	SH3 superfamily	 - 	 - 
+Q#5 - >Pavir.9KG138200.1.p	superfamily	386243	1	115	4.39518e-57	179.983	cl12013	BAR superfamily	N	 - 
+Q#5 - >Pavir.9KG138200.1.p	superfamily	388381	164	216	2.43638e-15	67.7485	cl17036	SH3 superfamily	 - 	 - 
+Q#6 - >Pavir.9KG501100.1.p	superfamily	386243	46	254	1.61106e-118	342.152	cl12013	BAR superfamily	 - 	 - 
+Q#6 - >Pavir.9KG501100.1.p	superfamily	388381	311	362	6.05571e-22	87.7789	cl17036	SH3 superfamily	 - 	 - 
+Q#7 - >Pavir.9KG501800.1.p	specific	214620	1120	1173	1.66736e-09	54.4665	smart00326	SH3	 - 	cl17036
+Q#8 - >Pavir.9KG509700.1.p	specific	214620	1123	1176	4.49219e-09	53.3109	smart00326	SH3	 - 	cl17036
+Q#9 - >Pavir.9NG241100.1.p	superfamily	386243	47	255	5.79263e-108	314.803	cl12013	BAR superfamily	 - 	 - 
+Q#9 - >Pavir.9NG241100.1.p	superfamily	388381	304	356	1.28453e-14	67.3633	cl17036	SH3 superfamily	 - 	 - 
+Q#10 - >Pavir.9NG663000.1.p	superfamily	388381	1127	1179	3.37693e-09	53.5306	cl17036	SH3 superfamily	 - 	 - 
+Q#11 - >Pavir.9NG706600.1.p	superfamily	386243	46	254	6.67805e-116	335.604	cl12013	BAR superfamily	 - 	 - 
+Q#11 - >Pavir.9NG706600.1.p	superfamily	388381	311	362	1.38065e-22	89.7049	cl17036	SH3 superfamily	 - 	 - 

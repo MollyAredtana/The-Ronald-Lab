@@ -1,0 +1,28 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2913637BB8A05ADE-26331772892588F
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-23T20:06:14	Run time	0:00:00:26
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.2KG139500.1.p	specific	238092	136	257	3.51889e-16	74.079	cd00161	RICIN	 - 	cl23784
+Q#1 - >Pavir.2KG139500.1.p	specific	238092	270	384	1.34079e-12	64.0638	cd00161	RICIN	 - 	cl23784
+Q#1 - >Pavir.2KG139500.1.p	superfamily	365915	1	45	0.000174882	41.9388	cl08249	RIP superfamily	N	 - 
+Q#2 - >Pavir.2KG142000.1.p	superfamily	365915	41	252	3.46263e-25	102.8	cl08249	RIP superfamily	 - 	 - 
+Q#2 - >Pavir.2KG142000.1.p	specific	238092	343	464	1.74545e-16	75.6198	cd00161	RICIN	 - 	cl23784
+Q#2 - >Pavir.2KG142000.1.p	specific	238092	477	591	2.40006e-13	66.7602	cd00161	RICIN	 - 	cl23784
+Q#4 - >Pavir.2KG584600.1.p	specific	372351	172	234	7.81885e-07	48.1987	pfam12868	DUF3824	N	cl26283
+Q#4 - >Pavir.2KG584600.1.p	specific	379501	138	173	0.000544928	38.4621	pfam14200	RicinB_lectin_2	NC	cl23784
+Q#5 - >Pavir.2NG107100.1.p	superfamily	365915	26	191	5.15247e-17	79.3031	cl08249	RIP superfamily	 - 	 - 
+Q#5 - >Pavir.2NG107100.1.p	specific	238092	405	520	4.46786e-13	65.9898	cd00161	RICIN	 - 	cl23784
+Q#5 - >Pavir.2NG107100.1.p	specific	366226	277	333	2.08784e-11	60.9961	pfam00652	Ricin_B_lectin	C	cl26069
+Q#6 - >Pavir.2NG107200.1.p	superfamily	365915	16	191	1.21811e-19	86.6219	cl08249	RIP superfamily	 - 	 - 
+Q#6 - >Pavir.2NG107200.1.p	specific	238092	275	406	5.02656e-08	51.3522	cd00161	RICIN	 - 	cl23784
+Q#7 - >Pavir.2NG633400.2.p	specific	379501	142	177	0.000520914	38.4621	pfam14200	RicinB_lectin_2	NC	cl23784
+Q#9 - >Pavir.5NG389200.1.p	superfamily	178487	29	641	0	943.838	cl31947	PLN02899 superfamily	 - 	 - 
+Q#10 - >Pavir.7KG206600.1.p	superfamily	390048	69	352	3.92729e-17	81.2445	cl23725	Glyco_hydro superfamily	 - 	 - 
+Q#11 - >Pavir.7KG206600.2.p	superfamily	390048	69	352	3.92729e-17	81.2445	cl23725	Glyco_hydro superfamily	 - 	 - 
+Q#14 - >Pavir.9KG092000.1.p	specific	379501	151	196	0.00444327	35.7657	pfam14200	RicinB_lectin_2	N	cl23784
+Q#15 - >Pavir.9NG600700.1.p	specific	379501	147	189	0.00106557	37.6917	pfam14200	RicinB_lectin_2	N	cl23784
+Q#16 - >Pavir.9NG600700.2.p	specific	379501	147	189	0.000873408	37.6917	pfam14200	RicinB_lectin_2	N	cl23784

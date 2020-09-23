@@ -1,0 +1,444 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1380177480CF451C-9911B9F32EDAE09
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-23T21:17:24	Run time	0:00:12:18
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG046000.1.p	superfamily	385653	18	430	1.52689e-51	180.561	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#2 - >Pavir.1KG082000.1.p	superfamily	385653	12	490	4.90069e-137	404.627	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#3 - >Pavir.1KG093700.1.p	superfamily	385653	23	476	5.11846e-157	454.642	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#4 - >Pavir.1KG094000.1.p	superfamily	385653	21	466	2.26863e-149	435.382	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#5 - >Pavir.1KG123000.1.p	superfamily	385653	1	461	1.65939e-143	419.649	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#6 - >Pavir.1KG123200.1.p	superfamily	385653	12	489	5.29528e-137	404.241	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#7 - >Pavir.1KG147600.1.p	superfamily	385653	7	351	9.46584e-66	215.433	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#8 - >Pavir.1KG179600.1.p	superfamily	385653	13	472	2.42327e-105	322.699	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#9 - >Pavir.1KG179700.1.p	superfamily	385653	18	445	2.45478e-103	318.077	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#10 - >Pavir.1KG179800.1.p	superfamily	385653	30	491	4.45648e-113	342.443	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#11 - >Pavir.1KG188500.1.p	superfamily	385653	8	478	1.06089e-82	264.028	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#12 - >Pavir.1KG281300.1.p	superfamily	278624	45	472	2.84567e-117	352.866	cl37490	UDPGT superfamily	 - 	 - 
+Q#13 - >Pavir.1KG281400.1.p	superfamily	278624	50	478	1.1788e-49	176.83	cl37490	UDPGT superfamily	 - 	 - 
+Q#14 - >Pavir.1KG284000.1.p	superfamily	385653	19	482	9.29812e-97	301.007	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#15 - >Pavir.1KG342600.1.p	specific	340817	41	203	1.46975e-45	155.017	cd03784	GT1_Gtf-like	N	cl10013
+Q#16 - >Pavir.1KG343000.1.p	superfamily	385653	1	490	1.80452e-78	252.268	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#17 - >Pavir.1KG347100.1.p	superfamily	385653	25	375	4.25084e-67	218.756	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#18 - >Pavir.1KG394700.1.p	superfamily	385653	1	403	2.63425e-133	390.011	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#19 - >Pavir.1NG032500.1.p	superfamily	385653	7	249	1.89807e-58	192.404	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#20 - >Pavir.1NG083800.1.p	superfamily	385653	1	203	3.92873e-80	246.634	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#21 - >Pavir.1NG102900.1.p	superfamily	385653	20	429	2.12191e-109	331.439	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#22 - >Pavir.1NG105300.1.p	superfamily	385653	9	487	4.57065e-144	422.346	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#23 - >Pavir.1NG105600.1.p	superfamily	385653	11	386	1.41205e-79	252.858	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#24 - >Pavir.1NG105800.1.p	superfamily	385653	2	271	2.4412e-91	279.052	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#25 - >Pavir.1NG131700.1.p	superfamily	385653	17	482	2.42707e-105	322.699	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#26 - >Pavir.1NG142300.1.p	superfamily	385653	201	499	3.69625e-67	223.968	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#26 - >Pavir.1NG142300.1.p	superfamily	185628	17	118	0.00280988	40.4434	cl33186	PTZ00449 superfamily	NC	 - 
+Q#27 - >Pavir.1NG143100.1.p	superfamily	385653	11	462	7.82167e-137	400.947	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#28 - >Pavir.1NG143200.1.p	superfamily	385653	8	458	3.22405e-145	422.518	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#29 - >Pavir.1NG202900.1.p	specific	340817	4	446	4.69197e-81	257.095	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#30 - >Pavir.1NG203000.1.p	superfamily	385653	12	278	1.18036e-50	174.601	cl10013	Glycosyltransferase_GTB-type superfamily	NC	 - 
+Q#31 - >Pavir.1NG203100.1.p	superfamily	385653	9	356	3.71667e-69	224.292	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#32 - >Pavir.1NG236800.1.p	superfamily	385653	13	289	1.78683e-51	179.296	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#33 - >Pavir.1NG318200.1.p	superfamily	385653	38	493	1.62766e-81	261.128	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#34 - >Pavir.1NG318200.2.p	superfamily	385653	12	467	7.89668e-82	261.128	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#35 - >Pavir.1NG419700.1.p	superfamily	385653	13	475	6.94366e-100	308.447	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#36 - >Pavir.1NG494200.1.p	superfamily	385653	12	482	5.43596e-96	297.336	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#37 - >Pavir.1NG494300.1.p	superfamily	385653	2	444	7.08546e-86	271.11	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#38 - >Pavir.1NG494400.1.p	superfamily	385653	1	481	1.94466e-93	291.702	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#39 - >Pavir.2KG053500.1.p	specific	215084	1	472	0	778.854	PLN00164	PLN00164	 - 	cl10013
+Q#40 - >Pavir.2KG075900.1.p	superfamily	385653	8	449	5.46679e-108	328.092	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#41 - >Pavir.2KG114100.1.p	superfamily	385653	12	470	1.8562e-108	329.557	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#42 - >Pavir.2KG114200.1.p	superfamily	385653	12	470	2.18054e-113	342.268	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#43 - >Pavir.2KG114400.1.p	superfamily	385653	17	487	8.00809e-141	413.145	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#44 - >Pavir.2KG114500.1.p	superfamily	385653	50	519	1.37782e-142	418.923	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#45 - >Pavir.2KG141300.1.p	superfamily	385653	8	409	1.81643e-71	231.852	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#46 - >Pavir.2KG142700.1.p	superfamily	385653	25	449	1.42404e-98	303.5	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#47 - >Pavir.2KG142800.1.p	superfamily	385653	11	469	2.60829e-115	346.257	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#48 - >Pavir.2KG142900.1.p	superfamily	385653	1	435	4.52974e-112	336.627	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#49 - >Pavir.2KG143000.1.p	superfamily	385653	21	470	5.25677e-118	353.575	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#50 - >Pavir.2KG149600.1.p	superfamily	385653	34	421	5.88186e-80	254.964	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#51 - >Pavir.2KG158000.1.p	superfamily	385653	16	482	2.46421e-137	403.9	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#52 - >Pavir.2KG162500.1.p	superfamily	385653	8	453	6.37857e-113	339.708	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#53 - >Pavir.2KG174600.1.p	superfamily	385653	17	484	2.21865e-133	393.885	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#54 - >Pavir.2KG244900.1.p	specific	340817	11	160	2.47048e-32	122.275	cd03784	GT1_Gtf-like	N	cl10013
+Q#55 - >Pavir.2KG244900.2.p	specific	340817	11	160	5.87584e-33	121.504	cd03784	GT1_Gtf-like	N	cl10013
+Q#56 - >Pavir.2KG279300.1.p	superfamily	385653	3	192	4.7713e-67	211.429	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#57 - >Pavir.2KG279300.2.p	superfamily	385653	3	192	4.7713e-67	211.429	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#58 - >Pavir.2KG283300.1.p	superfamily	385653	16	481	2.3121e-86	273.658	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#59 - >Pavir.2KG284300.1.p	superfamily	385653	18	475	1.87643e-130	385.774	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#60 - >Pavir.2KG314100.1.p	superfamily	385653	15	478	2.00008e-67	223.967	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#61 - >Pavir.2KG314100.2.p	superfamily	385653	15	385	6.70008e-52	180.054	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#62 - >Pavir.2KG314500.1.p	superfamily	385653	57	508	6.74042e-69	229.361	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#63 - >Pavir.2KG346200.1.p	superfamily	385653	20	475	6.97686e-66	219.73	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#64 - >Pavir.2KG396100.1.p	superfamily	385653	40	338	3.89897e-55	186.752	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#65 - >Pavir.2KG401000.1.p	superfamily	385653	11	458	4.47871e-113	340.479	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#66 - >Pavir.2KG428700.1.p	specific	215084	1	477	0	844.723	PLN00164	PLN00164	 - 	cl10013
+Q#67 - >Pavir.2KG428800.1.p	specific	215084	1	484	0	780.394	PLN00164	PLN00164	 - 	cl10013
+Q#68 - >Pavir.2KG428900.1.p	specific	215084	1	470	0	863.983	PLN00164	PLN00164	 - 	cl10013
+Q#69 - >Pavir.2KG429400.1.p	specific	215084	1	476	0	874.383	PLN00164	PLN00164	 - 	cl10013
+Q#70 - >Pavir.2KG429500.1.p	specific	215084	6	474	0	784.632	PLN00164	PLN00164	 - 	cl10013
+Q#71 - >Pavir.2KG429800.1.p	specific	215084	4	478	0	785.787	PLN00164	PLN00164	 - 	cl10013
+Q#72 - >Pavir.2KG429900.1.p	superfamily	385653	5	178	4.7193e-77	242.271	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#73 - >Pavir.2KG458800.1.p	superfamily	385653	4	478	1.09597e-92	289.65	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#74 - >Pavir.2KG485600.1.p	superfamily	385653	2	173	2.91535e-64	205.309	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#75 - >Pavir.2KG547300.1.p	superfamily	385653	7	478	8.91908e-91	283.822	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#76 - >Pavir.2KG576300.1.p	specific	340817	9	448	3.82995e-54	186.218	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#77 - >Pavir.2KG592400.1.p	superfamily	385653	7	450	7.52404e-63	210.915	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#78 - >Pavir.2NG078600.1.p	superfamily	385653	12	492	5.9789e-128	381.173	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#79 - >Pavir.2NG078700.1.p	superfamily	385653	12	486	1.49845e-119	358.447	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#80 - >Pavir.2NG097500.1.p	superfamily	385653	28	113	7.90367e-37	130.16	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#81 - >Pavir.2NG105900.1.p	superfamily	385653	17	470	1.461e-113	342.019	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#82 - >Pavir.2NG106000.1.p	superfamily	385653	4	425	6.51894e-86	269.987	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#83 - >Pavir.2NG106100.1.p	superfamily	385653	13	438	1.6734e-100	308.122	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#84 - >Pavir.2NG106200.1.p	superfamily	385653	29	378	6.21676e-92	283.469	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#85 - >Pavir.2NG107600.1.p	superfamily	385653	8	456	5.78906e-89	278.076	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#86 - >Pavir.2NG119800.1.p	superfamily	385653	69	267	1.10699e-52	178.513	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#86 - >Pavir.2NG119800.1.p	superfamily	385653	12	56	0.000212858	42.1538	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#87 - >Pavir.2NG130900.1.p	superfamily	385653	17	504	8.0006e-133	393.115	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#88 - >Pavir.2NG131000.1.p	superfamily	385653	16	487	1.58791e-128	381.944	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#89 - >Pavir.2NG132300.1.p	superfamily	385653	16	493	2.4737e-145	424.701	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#90 - >Pavir.2NG134700.1.p	superfamily	385653	9	207	8.86455e-53	176.587	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#91 - >Pavir.2NG180500.1.p	superfamily	385653	5	476	7.61381e-119	357.367	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#92 - >Pavir.2NG206200.1.p	superfamily	385653	8	408	2.86097e-71	231.331	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#93 - >Pavir.2NG206300.1.p	superfamily	385653	9	485	6.2577e-133	392.729	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#94 - >Pavir.2NG214200.1.p	superfamily	385653	22	487	1.64827e-101	313.334	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#95 - >Pavir.2NG251900.1.p	superfamily	385653	19	467	1.46752e-123	367.435	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#96 - >Pavir.2NG258900.1.p	superfamily	385653	1	428	2.77981e-74	239.534	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#97 - >Pavir.2NG284500.1.p	superfamily	385653	5	485	1.87514e-123	369.232	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#98 - >Pavir.2NG435800.1.p	superfamily	385653	12	461	1.38057e-161	464.12	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#99 - >Pavir.2NG436000.1.p	superfamily	385653	11	457	1.09685e-133	393.243	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#100 - >Pavir.2NG436300.1.p	superfamily	385653	10	460	4.67403e-155	447.171	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#101 - >Pavir.2NG438200.1.p	superfamily	385653	1	239	4.08863e-93	281.92	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#102 - >Pavir.2NG438400.1.p	superfamily	385653	10	231	4.63001e-90	272.676	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#103 - >Pavir.2NG438600.1.p	superfamily	385653	10	357	4.89848e-95	290.009	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#104 - >Pavir.2NG438900.1.p	superfamily	385653	10	459	6.85427e-151	436.771	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#105 - >Pavir.2NG439100.1.p	superfamily	385653	12	462	1.08091e-155	449.097	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#106 - >Pavir.2NG486900.1.p	superfamily	385653	12	472	2.38785e-81	259.202	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#107 - >Pavir.2NG487100.1.p	superfamily	385653	1	342	7.0205e-65	215.289	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#108 - >Pavir.2NG487100.2.p	superfamily	385653	1	329	1.43904e-58	198.34	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#109 - >Pavir.2NG487400.1.p	superfamily	385653	2	477	4.08069e-75	243.023	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#110 - >Pavir.2NG487500.1.p	superfamily	385653	2	479	1.62507e-76	246.875	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#111 - >Pavir.2NG489400.1.p	superfamily	385653	1	470	2.61222e-79	254.194	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#112 - >Pavir.2NG489600.1.p	superfamily	385653	2	477	5.59016e-75	242.638	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#113 - >Pavir.2NG489700.1.p	superfamily	385653	5	288	3.34187e-62	203.348	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#114 - >Pavir.2NG502200.1.p	specific	215084	1	473	0	850.116	PLN00164	PLN00164	 - 	cl10013
+Q#115 - >Pavir.2NG502300.1.p	specific	215084	1	482	0	854.738	PLN00164	PLN00164	 - 	cl10013
+Q#116 - >Pavir.2NG502700.1.p	specific	215084	1	475	0	879.776	PLN00164	PLN00164	 - 	cl10013
+Q#117 - >Pavir.2NG502800.1.p	specific	215084	1	474	0	889.406	PLN00164	PLN00164	 - 	cl10013
+Q#118 - >Pavir.2NG502900.1.p	specific	215084	6	483	0	799.654	PLN00164	PLN00164	 - 	cl10013
+Q#119 - >Pavir.2NG503100.1.p	superfamily	385653	4	469	0	725.696	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#120 - >Pavir.2NG594700.1.p	superfamily	385653	83	498	1.3067e-63	213.716	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#121 - >Pavir.2NG631700.1.p	superfamily	385653	13	448	6.56662e-104	316.596	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#122 - >Pavir.2NG631800.1.p	superfamily	385653	5	277	1.56681e-96	291.173	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#123 - >Pavir.2NG631900.1.p	superfamily	385653	26	472	1.3345e-127	377.843	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#124 - >Pavir.3KG084000.1.p	superfamily	385653	4	276	2.52579e-87	268.386	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#125 - >Pavir.3KG157700.1.p	superfamily	385653	20	494	4.95002e-152	443.917	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#126 - >Pavir.3KG158000.1.p	superfamily	385653	1	466	3.42769e-143	420.42	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#127 - >Pavir.3KG159900.1.p	superfamily	385653	7	491	1.21372e-90	283.869	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#128 - >Pavir.3KG182700.1.p	superfamily	385653	1	478	1.15512e-152	444.302	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#129 - >Pavir.3KG182800.1.p	superfamily	385653	1	478	4.54951e-152	443.532	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#130 - >Pavir.3KG238300.1.p	superfamily	385653	5	488	3.52078e-134	396.536	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#131 - >Pavir.3KG238300.2.p	superfamily	385653	5	488	3.52078e-134	396.536	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#132 - >Pavir.3KG267200.1.p	superfamily	385653	1	404	1.64777e-105	319.696	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#133 - >Pavir.3KG275300.1.p	superfamily	385653	21	469	1.94822e-118	354.346	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#134 - >Pavir.3KG289400.1.p	superfamily	385653	13	473	2.63932e-144	421.514	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#135 - >Pavir.3KG331100.1.p	superfamily	385653	4	472	5.27326e-106	323.933	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#136 - >Pavir.3KG331200.1.p	superfamily	385653	4	469	7.05518e-107	325.859	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#137 - >Pavir.3KG331800.1.p	superfamily	385653	1	187	9.86121e-53	174.861	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#138 - >Pavir.3KG331900.1.p	superfamily	385653	15	461	2.46722e-121	362.453	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#139 - >Pavir.3KG332000.1.p	superfamily	385653	7	475	3.37217e-135	398.662	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#140 - >Pavir.3KG369500.1.p	superfamily	385653	8	473	1.20803e-83	266.339	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#141 - >Pavir.3KG406100.1.p	superfamily	385653	9	442	1.62903e-105	320.44	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#142 - >Pavir.3KG412700.1.p	superfamily	385653	29	486	4.75088e-86	272.887	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#143 - >Pavir.3KG427600.1.p	superfamily	385653	8	200	4.21964e-70	219.903	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#144 - >Pavir.3NG041600.1.p	superfamily	385653	83	465	6.0261e-83	270.025	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#145 - >Pavir.3NG053700.1.p	specific	340817	7	443	3.71472e-68	223.582	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#146 - >Pavir.3NG170000.1.p	superfamily	385653	2	166	5.70204e-49	164.261	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#147 - >Pavir.3NG216900.1.p	superfamily	385653	30	182	1.69344e-23	99.4875	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#147 - >Pavir.3NG216900.1.p	specific	366220	220	254	6.4369e-06	42.2092	pfam00646	F-box	C	cl02535
+Q#148 - >Pavir.3NG308500.1.p	superfamily	385653	3	435	2.878e-69	226.46	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#149 - >Pavir.3NG309500.1.p	superfamily	385653	1	436	2.50498e-124	370.927	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#150 - >Pavir.4KG081800.1.p	superfamily	385653	19	481	7.42245e-90	283.288	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#151 - >Pavir.4KG094100.1.p	superfamily	278624	21	475	1.4267e-102	315.502	cl37490	UDPGT superfamily	 - 	 - 
+Q#152 - >Pavir.4KG094200.1.p	superfamily	278624	22	429	1.24834e-95	295.857	cl37490	UDPGT superfamily	 - 	 - 
+Q#153 - >Pavir.4KG130100.1.p	superfamily	385653	19	447	1.216e-95	296.781	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#154 - >Pavir.4KG131700.1.p	superfamily	385653	18	485	1.97659e-81	260.76	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#155 - >Pavir.4KG169300.1.p	superfamily	385653	12	461	8.51165e-74	240.145	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#156 - >Pavir.4KG169300.2.p	superfamily	385653	12	461	8.51165e-74	240.145	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#157 - >Pavir.4KG239400.1.p	superfamily	385653	6	408	1.77611e-77	248.643	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#158 - >Pavir.4KG241400.1.p	superfamily	385653	1	437	1.168e-124	370.003	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#159 - >Pavir.4KG261300.1.p	superfamily	385653	1	465	8.30008e-127	376.551	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#160 - >Pavir.4KG288500.1.p	superfamily	385653	11	141	4.93578e-38	134.415	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#161 - >Pavir.4KG298900.1.p	superfamily	385653	28	486	1.09705e-83	266.724	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#162 - >Pavir.4KG299000.1.p	superfamily	385653	30	488	8.61762e-84	267.109	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#163 - >Pavir.4KG299300.1.p	superfamily	385653	52	510	7.1556e-87	275.981	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#164 - >Pavir.4KG300700.1.p	superfamily	385653	1	168	1.36775e-54	178.709	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#165 - >Pavir.4KG303000.1.p	superfamily	385653	1	473	3.18409e-101	310.833	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#166 - >Pavir.4KG365600.1.p	superfamily	385653	26	477	7.71707e-137	403.471	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#167 - >Pavir.4KG365700.1.p	superfamily	385653	24	505	1.10524e-133	396.537	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#168 - >Pavir.4KG365900.1.p	superfamily	385653	21	493	1.68892e-143	420.805	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#169 - >Pavir.4KG396500.1.p	superfamily	385653	6	480	2.07509e-84	268.59	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#170 - >Pavir.4NG065200.1.p	superfamily	385653	52	524	4.32213e-116	351.667	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#171 - >Pavir.4NG075500.1.p	superfamily	385653	28	484	2.73739e-90	283.685	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#172 - >Pavir.4NG119400.1.p	superfamily	385653	23	493	3.84843e-149	435.443	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#173 - >Pavir.4NG119500.1.p	superfamily	385653	9	210	1.72891e-62	202.012	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#174 - >Pavir.4NG133000.1.p	superfamily	385653	8	473	3.38133e-87	275.584	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#175 - >Pavir.4NG145800.1.p	superfamily	385653	12	480	5.58369e-143	418.505	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#176 - >Pavir.4NG145900.1.p	superfamily	385653	1	460	2.00422e-132	391.155	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#177 - >Pavir.4NG146000.1.p	superfamily	385653	13	455	1.12048e-98	304.1	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#178 - >Pavir.4NG161800.1.p	superfamily	385653	14	458	4.10469e-82	261.716	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#179 - >Pavir.4NG194500.1.p	superfamily	385653	29	361	1.12083e-45	163.105	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#180 - >Pavir.4NG195100.1.p	superfamily	385653	26	486	1.42126e-86	274.428	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#181 - >Pavir.4NG212400.1.p	superfamily	385653	1	312	1.50988e-62	204.903	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#182 - >Pavir.4NG212500.1.p	superfamily	385653	1	179	1.14165e-43	150.59	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#183 - >Pavir.4NG212600.1.p	superfamily	385653	32	423	6.46343e-68	224.548	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#184 - >Pavir.4NG224700.1.p	superfamily	385653	6	463	1.74913e-75	244.323	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#185 - >Pavir.5KG063100.1.p	superfamily	385653	13	464	3.23239e-121	361.679	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#186 - >Pavir.5KG068000.1.p	superfamily	385653	4	445	1.02971e-133	395.382	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#187 - >Pavir.5KG154200.1.p	superfamily	385653	17	425	8.98115e-93	288.454	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#188 - >Pavir.5KG452300.1.p	superfamily	385653	10	488	7.38333e-141	413.485	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#189 - >Pavir.5KG452400.1.p	superfamily	385653	5	485	1.11744e-137	405.396	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#190 - >Pavir.5KG460400.1.p	superfamily	385653	11	452	1.58648e-102	313.938	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#191 - >Pavir.5KG460500.1.p	superfamily	385653	8	476	3.7652e-110	334.739	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#192 - >Pavir.5KG498300.1.p	superfamily	385653	2	440	6.59081e-125	370.927	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#193 - >Pavir.5KG501300.1.p	superfamily	385653	10	467	1.68296e-119	358.342	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#194 - >Pavir.5KG523800.1.p	superfamily	385653	13	450	4.54935e-126	374.394	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#195 - >Pavir.5KG529500.1.p	superfamily	385653	8	476	1.8075e-110	335.509	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#196 - >Pavir.5KG530600.1.p	superfamily	385653	4	452	5.44887e-113	340.882	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#197 - >Pavir.5KG530800.1.p	superfamily	385653	1	466	8.02474e-116	348.586	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#198 - >Pavir.5KG530900.1.p	superfamily	385653	139	488	3.47705e-111	337.8	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#199 - >Pavir.5KG531000.1.p	superfamily	385653	6	479	2.71462e-129	383.639	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#200 - >Pavir.5KG531100.1.p	superfamily	385653	10	475	1.25701e-130	386.72	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#201 - >Pavir.5KG531200.1.p	superfamily	385653	4	455	4.85495e-113	341.267	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#202 - >Pavir.5KG531400.1.p	superfamily	385653	4	468	1.19655e-121	363.994	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#203 - >Pavir.5KG531500.1.p	superfamily	385653	4	465	6.13458e-124	369.386	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#204 - >Pavir.5KG531600.1.p	superfamily	385653	1	465	7.60123e-126	374.394	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#205 - >Pavir.5KG531700.1.p	superfamily	385653	14	459	2.66337e-116	349.741	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#206 - >Pavir.5KG531900.1.p	superfamily	385653	13	450	2.77308e-127	377.476	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#207 - >Pavir.5KG588300.1.p	superfamily	385653	2	462	0	685.2	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#208 - >Pavir.5KG589200.1.p	specific	215247	93	557	0	734.12	PLN02448	PLN02448	 - 	cl10013
+Q#209 - >Pavir.5KG648600.1.p	superfamily	385653	9	462	5.95441e-131	386.951	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#210 - >Pavir.5KG648700.1.p	superfamily	385653	8	465	3.44929e-134	395.426	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#211 - >Pavir.5NG225200.1.p	superfamily	385653	1	284	1.21942e-66	215.879	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#212 - >Pavir.5NG269200.1.p	superfamily	385653	12	353	2.69844e-87	272.117	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#213 - >Pavir.5NG269300.1.p	superfamily	385653	63	363	2.11374e-94	290.221	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#214 - >Pavir.5NG281500.1.p	superfamily	385653	6	437	3.37035e-99	305.849	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#215 - >Pavir.5NG395300.1.p	superfamily	385653	9	485	6.2577e-133	392.729	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#216 - >Pavir.5NG395400.1.p	superfamily	385653	8	408	2.86097e-71	231.331	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#217 - >Pavir.5NG450200.1.p	superfamily	385653	15	480	9.05866e-148	430.633	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#218 - >Pavir.5NG459700.1.p	superfamily	385653	10	460	1.5756e-123	368.357	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#219 - >Pavir.5NG481400.1.p	superfamily	385653	1	463	7.13489e-120	358.986	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#220 - >Pavir.5NG481500.1.p	superfamily	385653	1	384	6.04787e-95	293.502	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#221 - >Pavir.5NG481800.1.p	superfamily	385653	6	478	5.50689e-133	392.884	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#222 - >Pavir.5NG481900.1.p	superfamily	385653	9	461	5.66092e-106	323.162	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#223 - >Pavir.5NG482100.1.p	superfamily	385653	10	474	3.8765e-130	385.565	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#224 - >Pavir.5NG482300.1.p	superfamily	385653	1	467	1.03982e-129	384.409	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#225 - >Pavir.5NG482400.1.p	superfamily	385653	4	458	6.45408e-117	351.282	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#226 - >Pavir.5NG482600.1.p	superfamily	385653	13	463	2.12342e-132	390.958	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#227 - >Pavir.5NG542400.1.p	superfamily	385653	2	462	0	672.488	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#228 - >Pavir.5NG542500.1.p	superfamily	385653	1	374	0	570.41	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#229 - >Pavir.6KG057500.1.p	superfamily	385653	35	492	3.89415e-86	272.14	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#230 - >Pavir.6KG080000.1.p	superfamily	385653	16	398	5.42657e-79	251.86	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#231 - >Pavir.6KG080600.1.p	superfamily	385653	20	431	1.12e-86	272.661	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#232 - >Pavir.6KG103200.1.p	superfamily	385653	6	504	2.73768e-69	229.3	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#233 - >Pavir.6KG130600.1.p	superfamily	385653	15	486	1.12291e-96	299.23	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#234 - >Pavir.6KG142600.1.p	superfamily	385653	1	469	4.47513e-136	400.588	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#235 - >Pavir.6KG181500.1.p	superfamily	385653	23	467	1.5831e-112	340.111	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#236 - >Pavir.6KG200300.1.p	superfamily	385653	28	287	5.32392e-54	181.744	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#237 - >Pavir.6KG221200.1.p	superfamily	385653	13	481	9.88562e-73	238.219	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#238 - >Pavir.6KG221200.2.p	superfamily	385653	13	481	9.88562e-73	238.219	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#239 - >Pavir.6KG291200.1.p	superfamily	385653	14	434	3.06062e-94	292.654	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#240 - >Pavir.6KG320300.1.p	superfamily	385653	19	473	4.48585e-126	374.977	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#241 - >Pavir.6NG002200.1.p	superfamily	385653	7	131	8.33461e-43	146.352	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#242 - >Pavir.6NG040600.1.p	superfamily	385653	8	436	1.86186e-68	224.76	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#243 - >Pavir.6NG040900.1.p	specific	340817	4	430	1.25001e-78	249.776	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#244 - >Pavir.6NG064600.1.p	specific	340817	3	170	8.23602e-53	173.506	cd03784	GT1_Gtf-like	N	cl10013
+Q#245 - >Pavir.6NG076100.1.p	superfamily	385653	31	500	2.94869e-88	278.991	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#246 - >Pavir.6NG076200.1.p	superfamily	385653	389	474	3.66894e-17	83.3695	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#247 - >Pavir.6NG171100.1.p	superfamily	385653	6	479	2.53254e-82	262.872	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#248 - >Pavir.6NG171100.2.p	superfamily	385653	6	479	2.53254e-82	262.872	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#249 - >Pavir.6NG177300.1.p	superfamily	385653	1	444	5.19491e-120	358.986	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#250 - >Pavir.6NG241400.1.p	superfamily	385653	1	348	1.81935e-94	289.572	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#251 - >Pavir.6NG290900.1.p	superfamily	385653	17	476	8.99663e-136	400.015	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#252 - >Pavir.6NG291000.1.p	superfamily	385653	1	327	6.53033e-92	281.759	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#253 - >Pavir.7KG015500.1.p	superfamily	385653	7	486	2.32999e-84	268.205	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#254 - >Pavir.7KG017500.1.p	superfamily	385653	17	507	1.54312e-91	287.465	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#255 - >Pavir.7KG017600.1.p	specific	340817	12	465	2.64487e-83	263.258	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#256 - >Pavir.7KG025400.1.p	superfamily	385653	90	519	1.80304e-100	310.04	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#257 - >Pavir.7KG026000.1.p	superfamily	385653	26	476	2.44685e-123	367.049	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#258 - >Pavir.7KG026100.1.p	superfamily	385653	27	475	4.00421e-122	363.968	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#259 - >Pavir.7KG055100.1.p	specific	340817	9	212	6.83322e-43	149.624	cd03784	GT1_Gtf-like	N	cl10013
+Q#260 - >Pavir.7KG055100.2.p	specific	340817	1	147	9.48104e-33	120.349	cd03784	GT1_Gtf-like	N	cl10013
+Q#261 - >Pavir.7KG130600.1.p	superfamily	385653	202	452	4.38866e-66	219.851	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#262 - >Pavir.7KG141500.1.p	superfamily	385653	14	479	7.79932e-87	273.839	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#263 - >Pavir.7KG206300.1.p	specific	340817	7	454	1.71224e-54	187.373	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#264 - >Pavir.7KG233400.1.p	superfamily	385653	26	378	1.29889e-66	218.586	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#265 - >Pavir.7KG248400.1.p	superfamily	385653	27	378	1.2693e-64	213.193	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#266 - >Pavir.7KG248400.2.p	superfamily	385653	27	378	1.2693e-64	213.193	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#267 - >Pavir.7KG253600.1.p	superfamily	385653	4	495	2.46874e-112	341.069	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#268 - >Pavir.7KG253700.1.p	superfamily	385653	1	473	1.5641e-119	359.558	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#269 - >Pavir.7KG255200.1.p	superfamily	385653	6	465	4.51136e-144	421.597	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#270 - >Pavir.7KG284900.1.p	specific	340817	24	464	2.37619e-57	195.077	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#271 - >Pavir.7KG285000.1.p	specific	340817	6	437	1.52824e-56	192.381	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#272 - >Pavir.7KG285100.1.p	superfamily	385653	200	456	2.22961e-53	185.953	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#273 - >Pavir.7KG285200.1.p	superfamily	385653	174	458	9.17001e-55	189.805	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#274 - >Pavir.7KG285300.1.p	superfamily	385653	236	487	1.21128e-53	187.572	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#275 - >Pavir.7KG290100.1.p	specific	340817	41	473	5.46207e-58	197.003	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#276 - >Pavir.7KG297500.1.p	superfamily	385653	14	479	8.12931e-86	271.143	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#277 - >Pavir.7NG064300.1.p	superfamily	385653	19	475	1.05519e-122	365.894	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#278 - >Pavir.7NG064500.1.p	superfamily	385653	29	482	2.2266e-125	372.442	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#279 - >Pavir.7NG064500.2.p	superfamily	385653	29	370	9.74963e-72	231.459	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#280 - >Pavir.7NG064500.3.p	superfamily	385653	29	370	5.72851e-72	231.074	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#281 - >Pavir.7NG064500.4.p	superfamily	385653	29	482	3.14998e-125	372.057	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#282 - >Pavir.7NG064500.5.p	superfamily	385653	29	482	3.07015e-122	364.353	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#283 - >Pavir.7NG072600.1.p	superfamily	385653	11	483	3.01127e-79	255.108	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#284 - >Pavir.7NG073200.1.p	superfamily	385653	20	427	4.65966e-40	148.649	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#285 - >Pavir.7NG073500.1.p	superfamily	385653	8	352	2.9005e-73	234.693	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#286 - >Pavir.7NG183900.1.p	superfamily	385653	8	476	6.52786e-89	279.232	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#287 - >Pavir.7NG183900.2.p	superfamily	385653	8	476	6.52786e-89	279.232	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#288 - >Pavir.7NG184100.1.p	superfamily	385653	14	479	8.12931e-86	271.143	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#289 - >Pavir.7NG231000.1.p	superfamily	385653	197	466	8.10529e-53	184.676	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#290 - >Pavir.7NG278700.1.p	superfamily	385653	1	447	1.74363e-57	196.817	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#291 - >Pavir.7NG278800.1.p	superfamily	385653	183	469	5.74789e-52	182.293	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#292 - >Pavir.7NG278900.1.p	specific	340817	11	447	5.97183e-52	180.44	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#293 - >Pavir.7NG283600.1.p	superfamily	385653	120	456	5.11513e-53	184.088	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#294 - >Pavir.7NG284600.1.p	superfamily	385653	6	461	1.84905e-58	198.725	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#295 - >Pavir.7NG332500.1.p	superfamily	385653	6	457	7.44914e-148	430.457	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#296 - >Pavir.7NG339800.1.p	superfamily	385653	1	490	1.296e-132	392.685	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#297 - >Pavir.7NG339900.1.p	superfamily	385653	6	499	2.65587e-114	346.076	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#298 - >Pavir.7NG343700.1.p	specific	340817	9	428	4.76922e-76	243.998	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#299 - >Pavir.7NG382200.1.p	superfamily	385653	13	470	1.03152e-165	475.899	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#300 - >Pavir.7NG382400.1.p	superfamily	385653	3	474	1.35365e-137	404.252	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#301 - >Pavir.8KG032500.1.p	superfamily	385653	12	325	1.25474e-61	203.362	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#302 - >Pavir.8KG032600.1.p	superfamily	385653	21	485	9.18165e-110	333.559	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#303 - >Pavir.8KG039500.1.p	superfamily	278624	108	391	9.17667e-51	178.756	cl37490	UDPGT superfamily	 - 	 - 
+Q#304 - >Pavir.8KG061700.1.p	superfamily	385653	14	468	1.12249e-93	290.38	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#305 - >Pavir.8KG095900.1.p	superfamily	385653	1	343	0	589.721	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#306 - >Pavir.8KG135300.1.p	superfamily	385653	13	483	1.61826e-64	216.462	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#307 - >Pavir.8KG135700.1.p	superfamily	385653	41	468	4.67453e-112	339.726	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#308 - >Pavir.8KG152200.1.p	specific	340817	4	436	7.60394e-69	224.353	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#309 - >Pavir.8KG152400.1.p	superfamily	385653	1	180	1.10634e-61	198.28	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#310 - >Pavir.8KG154200.1.p	superfamily	385653	17	483	1.76393e-116	351.204	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#311 - >Pavir.8KG154600.1.p	superfamily	385653	17	473	5.27836e-118	354.671	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#312 - >Pavir.8KG185500.1.p	superfamily	385653	9	477	7.27876e-138	405.441	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#313 - >Pavir.8KG185700.1.p	superfamily	385653	8	465	4.73096e-135	397.737	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#314 - >Pavir.8KG187100.1.p	superfamily	385653	52	503	1.79458e-69	228.998	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#315 - >Pavir.8KG187200.1.p	superfamily	385653	51	184	1.73229e-40	142.63	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#316 - >Pavir.8KG187300.1.p	specific	340817	22	187	1.05857e-52	174.662	cd03784	GT1_Gtf-like	N	cl10013
+Q#317 - >Pavir.8KG187400.1.p	superfamily	385653	50	476	3.38113e-74	241.324	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#318 - >Pavir.8KG187500.1.p	superfamily	385653	24	459	2.3582e-69	228.144	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#319 - >Pavir.8KG239900.1.p	superfamily	385653	16	474	1.23466e-121	363.916	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#320 - >Pavir.8KG252000.1.p	superfamily	385653	9	247	4.25697e-58	192.195	cl10013	Glycosyltransferase_GTB-type superfamily	NC	 - 
+Q#321 - >Pavir.8KG274600.1.p	superfamily	385653	15	382	8.85658e-70	225.666	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#322 - >Pavir.8KG296600.1.p	superfamily	385653	4	480	3.61209e-107	326.629	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#323 - >Pavir.8KG308700.1.p	superfamily	385653	28	482	6.36128e-125	372.775	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#324 - >Pavir.8KG331000.1.p	superfamily	385653	8	451	1.21269e-108	328.923	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#325 - >Pavir.8KG398800.1.p	superfamily	385653	1	393	0	613.988	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#326 - >Pavir.8NG030700.1.p	superfamily	385653	10	477	9.79301e-90	281.172	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#327 - >Pavir.8NG031100.1.p	superfamily	385653	21	481	3.28157e-108	329.322	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#328 - >Pavir.8NG031200.1.p	superfamily	385653	1	127	2.59291e-42	144.812	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#329 - >Pavir.8NG037900.1.p	specific	340817	4	434	2.35248e-74	238.99	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#330 - >Pavir.8NG065600.1.p	superfamily	385653	14	465	2.89181e-100	307.329	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#331 - >Pavir.8NG090900.1.p	superfamily	385653	6	204	1.03388e-42	149.002	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#332 - >Pavir.8NG093800.1.p	superfamily	385653	1	474	5.94885e-150	437.754	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#333 - >Pavir.8NG151000.1.p	superfamily	385653	1	180	6.28358e-62	198.665	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#334 - >Pavir.8NG163000.1.p	specific	340817	4	402	3.32664e-70	227.049	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#335 - >Pavir.8NG170900.1.p	superfamily	385653	18	175	9.36471e-42	145.326	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#336 - >Pavir.8NG195700.1.p	superfamily	385653	26	469	2.42882e-124	369.746	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#337 - >Pavir.8NG197300.1.p	superfamily	385653	1	434	3.98033e-74	239.783	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#338 - >Pavir.8NG263200.1.p	superfamily	385653	14	465	2.85525e-92	286.913	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#339 - >Pavir.8NG272700.1.p	superfamily	385653	8	442	7.83246e-109	328.923	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#340 - >Pavir.8NG275500.1.p	superfamily	385653	1	162	1.61205e-62	200.591	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#341 - >Pavir.8NG337900.1.p	superfamily	385653	18	472	7.49159e-96	297.585	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#342 - >Pavir.8NG338100.1.p	superfamily	385653	16	496	2.15327e-72	237.494	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#343 - >Pavir.8NG341000.1.p	superfamily	385653	20	215	5.57477e-46	158.528	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#344 - >Pavir.8NG341200.1.p	superfamily	385653	16	475	4.86216e-73	242.502	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#345 - >Pavir.9KG035500.1.p	superfamily	385653	2	458	1.23297e-123	368.077	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#346 - >Pavir.9KG035800.1.p	superfamily	385653	16	480	1.13289e-115	348.431	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#347 - >Pavir.9KG082100.1.p	superfamily	385653	6	471	1.24907e-74	242.468	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#348 - >Pavir.9KG117600.1.p	superfamily	385653	16	424	1.29496e-91	285.372	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#349 - >Pavir.9KG199500.1.p	superfamily	385653	21	484	1.12684e-107	327.735	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#350 - >Pavir.9KG271600.1.p	superfamily	385653	3	332	1.80679e-88	272.298	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#351 - >Pavir.9KG285800.1.p	superfamily	385653	18	272	8.26693e-71	225.448	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#352 - >Pavir.9KG309800.1.p	superfamily	385653	39	446	1.49977e-110	335.848	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#353 - >Pavir.9KG351400.1.p	superfamily	385653	13	472	1.80444e-105	322.699	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#354 - >Pavir.9KG380500.1.p	superfamily	385653	29	505	4.32553e-155	451.236	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#355 - >Pavir.9KG380600.1.p	superfamily	385653	5	255	5.90873e-63	205.093	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#356 - >Pavir.9KG380700.1.p	superfamily	385653	5	485	1.90552e-86	274.428	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#357 - >Pavir.9KG381000.1.p	superfamily	385653	1	493	1.4527e-87	277.896	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#358 - >Pavir.9KG381000.2.p	superfamily	385653	4	493	4.96702e-88	278.666	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#359 - >Pavir.9KG382700.1.p	superfamily	385653	27	512	3.30797e-64	216.648	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#360 - >Pavir.9KG437500.1.p	superfamily	385653	9	367	3.2392e-93	288.495	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#361 - >Pavir.9KG483800.1.p	superfamily	385653	49	497	8.18808e-124	369.361	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#362 - >Pavir.9KG585600.1.p	superfamily	385653	12	486	2.7767e-64	215.878	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#363 - >Pavir.9KG626200.1.p	superfamily	385653	1	270	4.04121e-66	214.338	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#364 - >Pavir.9KG651000.1.p	specific	340817	14	449	3.99434e-77	247.079	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#365 - >Pavir.9NG048400.1.p	specific	340817	13	442	9.33599e-69	224.353	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#366 - >Pavir.9NG048500.1.p	specific	340817	10	451	8.23592e-70	227.049	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#367 - >Pavir.9NG048700.1.p	superfamily	385653	7	446	2.12298e-71	232.85	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#368 - >Pavir.9NG048900.1.p	superfamily	385653	5	457	2.91162e-74	240.168	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#369 - >Pavir.9NG049000.1.p	superfamily	385653	2	118	1.4342e-22	92.4021	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#370 - >Pavir.9NG049300.1.p	superfamily	385653	1	432	1.16541e-74	240.939	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#371 - >Pavir.9NG049400.1.p	specific	340817	5	411	3.91485e-68	222.041	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#372 - >Pavir.9NG049600.1.p	specific	340817	4	431	2.56657e-76	243.613	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#373 - >Pavir.9NG055500.1.p	superfamily	385653	4	455	5.85359e-78	250.486	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#374 - >Pavir.9NG055700.1.p	superfamily	385653	1	455	7.00307e-76	245.176	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#375 - >Pavir.9NG057000.1.p	specific	340817	4	392	4.29299e-72	233.597	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#376 - >Pavir.9NG065800.1.p	superfamily	385653	8	474	2.96646e-107	326.86	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#377 - >Pavir.9NG066500.1.p	superfamily	385653	7	485	6.73719e-141	413.145	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#378 - >Pavir.9NG075800.1.p	superfamily	385653	196	661	4.07184e-99	312.564	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#379 - >Pavir.9NG089100.1.p	superfamily	385653	22	487	1.64827e-101	313.334	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#380 - >Pavir.9NG095000.1.p	specific	340817	4	436	1.81298e-77	249.005	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#381 - >Pavir.9NG095000.2.p	superfamily	385653	1	456	3.57973e-77	247.487	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#382 - >Pavir.9NG126300.1.p	superfamily	385653	120	430	7.12633e-67	222.427	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#383 - >Pavir.9NG145700.1.p	superfamily	385653	13	478	1.88166e-115	348.046	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#384 - >Pavir.9NG161100.1.p	superfamily	385653	3	454	3.83618e-125	371.672	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#385 - >Pavir.9NG193800.1.p	superfamily	385653	19	448	6.46487e-114	343.424	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#386 - >Pavir.9NG197100.1.p	superfamily	385653	6	458	1.81916e-64	215.504	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#387 - >Pavir.9NG211800.1.p	superfamily	385653	9	302	1.61497e-95	289.247	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#388 - >Pavir.9NG399000.1.p	superfamily	385653	11	458	2.44991e-155	447.941	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#389 - >Pavir.9NG420000.1.p	superfamily	385653	1	424	1.96012e-72	234.164	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#390 - >Pavir.9NG516600.1.p	superfamily	385653	29	500	5.13818e-133	394.997	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#391 - >Pavir.9NG516700.1.p	superfamily	385653	5	483	6.97777e-88	278.28	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#392 - >Pavir.9NG588000.1.p	superfamily	385653	9	470	3.60781e-112	339.726	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#393 - >Pavir.9NG646700.1.p	superfamily	385653	14	482	1.38993e-110	336.831	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#394 - >Pavir.9NG801400.1.p	superfamily	385653	19	482	9.29812e-97	301.007	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#395 - >Pavir.9NG828500.1.p	superfamily	385653	20	471	4.31821e-69	228.59	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#396 - >Pavir.J007600.1.p	superfamily	385653	14	411	5.32355e-93	286.913	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#397 - >Pavir.J019800.1.p	superfamily	385653	8	473	1.7792e-83	265.954	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#398 - >Pavir.J034800.1.p	superfamily	385653	8	451	3.61188e-87	273.454	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#399 - >Pavir.J049300.1.p	superfamily	385653	7	452	4.90816e-68	224.782	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#400 - >Pavir.J096500.1.p	superfamily	385653	29	277	2.92388e-78	244.708	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#401 - >Pavir.J098100.1.p	superfamily	385653	1	383	1.06751e-84	265.788	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#402 - >Pavir.J127600.1.p	superfamily	385653	2	177	6.06505e-41	143.505	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#403 - >Pavir.J129800.1.p	superfamily	385653	5	166	2.80083e-47	160.349	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#404 - >Pavir.J139600.1.p	superfamily	385653	7	219	1.15511e-47	165.742	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#405 - >Pavir.J153200.1.p	superfamily	385653	24	452	7.49287e-90	280.787	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#406 - >Pavir.J190500.1.p	superfamily	385653	4	308	1.18818e-85	265.228	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#407 - >Pavir.J193000.1.p	superfamily	385653	1	340	1.37723e-120	356.03	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#408 - >Pavir.J225800.1.p	superfamily	385653	3	156	1.70145e-42	146.741	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#409 - >Pavir.J248600.1.p	superfamily	385653	100	343	1.53009e-83	260.349	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#410 - >Pavir.J253900.1.p	superfamily	385653	2	195	2.68167e-63	202.826	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#411 - >Pavir.J277700.1.p	superfamily	385653	1	353	1.74064e-128	376.705	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#412 - >Pavir.J296100.1.p	superfamily	385653	8	375	1.07668e-62	208.174	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#413 - >Pavir.J296200.1.p	superfamily	385653	5	476	2.17711e-88	278.666	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#414 - >Pavir.J296400.1.p	superfamily	385653	23	314	1.74559e-72	231.672	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#415 - >Pavir.J315900.1.p	superfamily	385653	4	485	7.66023e-116	349.356	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#416 - >Pavir.J331000.1.p	superfamily	385653	21	368	1.96578e-62	206.814	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#417 - >Pavir.J331100.1.p	superfamily	385653	267	381	1.65524e-35	135.167	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#418 - >Pavir.J341900.1.p	superfamily	385653	1	76	1.01695e-27	104.737	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#419 - >Pavir.J368000.1.p	superfamily	385653	8	153	7.78827e-52	171.376	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#420 - >Pavir.J396900.1.p	superfamily	385653	20	305	2.56431e-71	227.864	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#421 - >Pavir.J411500.1.p	superfamily	385653	39	311	1.82246e-74	236.874	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#422 - >Pavir.J417700.1.p	superfamily	385653	15	423	5.30673e-68	225.509	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#423 - >Pavir.J475800.1.p	superfamily	385653	5	394	7.05221e-74	237.213	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#424 - >Pavir.J477800.1.p	superfamily	385653	8	398	1.4544e-75	242.842	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#425 - >Pavir.J525400.1.p	superfamily	385653	154	417	1.6084e-52	181.776	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#426 - >Pavir.J528200.1.p	superfamily	278624	43	435	3.02998e-97	301.635	cl37490	UDPGT superfamily	 - 	 - 
+Q#427 - >Pavir.J546700.1.p	superfamily	385653	5	367	9.13921e-86	267.881	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#428 - >Pavir.J594900.1.p	superfamily	385653	21	367	9.80463e-60	200.795	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#429 - >Pavir.J596200.1.p	superfamily	385653	9	442	1.71263e-94	293.689	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#430 - >Pavir.J601200.1.p	superfamily	385653	4	310	1.40566e-98	301.393	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#431 - >Pavir.J606800.1.p	superfamily	385653	19	369	7.02102e-74	236.104	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#432 - >Pavir.J633100.1.p	superfamily	385653	32	280	6.35593e-54	181.607	cl10013	Glycosyltransferase_GTB-type superfamily	NC	 - 
+Q#433 - >Pavir.J707500.1.p	superfamily	385653	6	347	1.23526e-43	156.882	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 

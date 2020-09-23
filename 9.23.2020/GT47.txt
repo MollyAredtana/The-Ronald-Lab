@@ -1,0 +1,123 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-274FCFE548A1EA52-376253925BAC561E
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-23T21:36:03	Run time	0:00:03:08
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG092900.1.p	specific	367297	99	377	2.40613e-62	203.033	pfam03016	Exostosin	 - 	cl20239
+Q#2 - >Pavir.1KG305500.1.p	specific	367297	59	354	2.35799e-86	264.665	pfam03016	Exostosin	 - 	cl20239
+Q#3 - >Pavir.1KG380500.1.p	specific	367297	1	288	4.55633e-71	222.678	pfam03016	Exostosin	 - 	cl20239
+Q#4 - >Pavir.1NG083100.1.p	specific	367297	86	364	2.9803e-62	202.263	pfam03016	Exostosin	 - 	cl20239
+Q#5 - >Pavir.1NG273700.1.p	specific	367297	48	299	1.0716e-66	212.278	pfam03016	Exostosin	 - 	cl20239
+Q#6 - >Pavir.1NG364000.1.p	specific	367297	1	287	3.8768e-70	219.982	pfam03016	Exostosin	 - 	cl20239
+Q#7 - >Pavir.2KG109900.1.p	specific	367297	237	507	5.7172e-55	187.24	pfam03016	Exostosin	 - 	cl20239
+Q#8 - >Pavir.2KG494500.1.p	specific	367297	104	420	2.31906e-78	246.561	pfam03016	Exostosin	 - 	cl20239
+Q#9 - >Pavir.2NG076300.1.p	specific	367297	88	372	1.12473e-66	214.204	pfam03016	Exostosin	 - 	cl20239
+Q#10 - >Pavir.2NG076300.2.p	specific	367297	71	355	1.11727e-66	213.434	pfam03016	Exostosin	 - 	cl20239
+Q#11 - >Pavir.2NG076300.3.p	specific	367297	88	372	1.12473e-66	214.204	pfam03016	Exostosin	 - 	cl20239
+Q#12 - >Pavir.2NG076300.4.p	specific	367297	88	372	1.12473e-66	214.204	pfam03016	Exostosin	 - 	cl20239
+Q#13 - >Pavir.2NG543100.1.p	specific	367297	103	419	4.5822e-78	245.79	pfam03016	Exostosin	 - 	cl20239
+Q#14 - >Pavir.3KG001100.1.p	specific	367297	89	400	2.81538e-62	203.804	pfam03016	Exostosin	 - 	cl20239
+Q#15 - >Pavir.3KG005900.1.p	specific	367297	89	400	6.1679e-61	200.337	pfam03016	Exostosin	 - 	cl20239
+Q#16 - >Pavir.3KG005900.2.p	specific	367297	89	400	6.1679e-61	200.337	pfam03016	Exostosin	 - 	cl20239
+Q#17 - >Pavir.3KG065300.1.p	specific	367297	99	429	1.52249e-55	188.011	pfam03016	Exostosin	 - 	cl20239
+Q#18 - >Pavir.3KG280600.1.p	specific	367297	48	343	9.7296e-85	260.428	pfam03016	Exostosin	 - 	cl20239
+Q#19 - >Pavir.3KG280700.1.p	specific	367297	48	343	1.96766e-82	254.265	pfam03016	Exostosin	 - 	cl20239
+Q#20 - >Pavir.3KG280700.2.p	specific	367297	48	343	1.96766e-82	254.265	pfam03016	Exostosin	 - 	cl20239
+Q#21 - >Pavir.3KG280700.3.p	specific	367297	1	269	1.68196e-70	221.138	pfam03016	Exostosin	 - 	cl20239
+Q#22 - >Pavir.3KG500600.1.p	specific	367297	164	461	1.10009e-67	219.982	pfam03016	Exostosin	 - 	cl20239
+Q#22 - >Pavir.3KG500600.1.p	superfamily	283420	45	129	0.00288892	39.8627	cl05358	Rubella_Capsid superfamily	C	 - 
+Q#23 - >Pavir.3NG034700.1.p	specific	367297	54	353	2.3034e-43	153.343	pfam03016	Exostosin	 - 	cl20239
+Q#24 - >Pavir.3NG034700.2.p	specific	367297	54	309	4.36793e-27	107.119	pfam03016	Exostosin	 - 	cl20239
+Q#25 - >Pavir.3NG061900.1.p	specific	367297	89	416	1.56617e-56	190.322	pfam03016	Exostosin	 - 	cl20239
+Q#26 - >Pavir.4KG070200.1.p	specific	367297	81	270	1.16048e-24	102.111	pfam03016	Exostosin	C	cl20239
+Q#27 - >Pavir.4KG088600.1.p	specific	367297	265	558	1.7703e-23	100.57	pfam03016	Exostosin	 - 	cl20239
+Q#28 - >Pavir.4KG290800.1.p	specific	367297	93	432	1.26331e-42	155.654	pfam03016	Exostosin	 - 	cl20239
+Q#29 - >Pavir.4NG191300.1.p	specific	367297	51	346	4.57806e-77	240.783	pfam03016	Exostosin	 - 	cl20239
+Q#30 - >Pavir.5KG147400.1.p	specific	367297	226	514	3.52799e-70	227.301	pfam03016	Exostosin	 - 	cl20239
+Q#31 - >Pavir.5KG147400.2.p	specific	367297	195	483	2.49494e-70	226.916	pfam03016	Exostosin	 - 	cl20239
+Q#32 - >Pavir.5KG147400.3.p	specific	367297	225	513	3.95697e-70	226.916	pfam03016	Exostosin	 - 	cl20239
+Q#33 - >Pavir.5KG453500.1.p	specific	367297	168	455	2.83295e-64	210.352	pfam03016	Exostosin	 - 	cl20239
+Q#34 - >Pavir.5KG591700.1.p	specific	367297	113	420	1.29524e-84	262.739	pfam03016	Exostosin	 - 	cl20239
+Q#35 - >Pavir.5KG598000.1.p	specific	367297	113	420	9.79062e-85	263.124	pfam03016	Exostosin	 - 	cl20239
+Q#36 - >Pavir.5KG645500.1.p	specific	367297	57	353	6.19054e-42	149.491	pfam03016	Exostosin	 - 	cl20239
+Q#37 - >Pavir.5KG645500.2.p	specific	367297	57	308	4.75128e-26	104.422	pfam03016	Exostosin	 - 	cl20239
+Q#38 - >Pavir.5KG734500.1.p	specific	367297	60	359	9.06511e-74	232.308	pfam03016	Exostosin	 - 	cl20239
+Q#39 - >Pavir.5KG739100.1.p	specific	367297	51	346	2.01682e-77	241.553	pfam03016	Exostosin	 - 	cl20239
+Q#40 - >Pavir.5KG745400.1.p	specific	367297	53	348	2.42269e-78	243.864	pfam03016	Exostosin	 - 	cl20239
+Q#41 - >Pavir.5KG745400.2.p	specific	367297	17	312	5.2008e-79	244.635	pfam03016	Exostosin	 - 	cl20239
+Q#42 - >Pavir.5KG745500.1.p	specific	367297	48	343	2.69185e-83	256.576	pfam03016	Exostosin	 - 	cl20239
+Q#43 - >Pavir.5KG745600.1.p	specific	367297	48	343	8.66212e-88	268.132	pfam03016	Exostosin	 - 	cl20239
+Q#44 - >Pavir.5NG144100.1.p	specific	367297	230	518	3.51761e-69	224.604	pfam03016	Exostosin	 - 	cl20239
+Q#45 - >Pavir.5NG263300.1.p	specific	367297	48	333	1.63524e-72	227.686	pfam03016	Exostosin	 - 	cl20239
+Q#46 - >Pavir.5NG503000.1.p	specific	367297	75	415	2.43234e-62	204.959	pfam03016	Exostosin	 - 	cl20239
+Q#47 - >Pavir.5NG547800.1.p	specific	367297	111	418	1.37546e-85	265.05	pfam03016	Exostosin	 - 	cl20239
+Q#48 - >Pavir.5NG611900.1.p	specific	367297	48	343	7.51827e-83	255.42	pfam03016	Exostosin	 - 	cl20239
+Q#49 - >Pavir.5NG612000.1.p	specific	367297	48	343	1.3694e-86	265.05	pfam03016	Exostosin	 - 	cl20239
+Q#50 - >Pavir.6KG252400.1.p	specific	367297	76	415	1.69561e-72	233.079	pfam03016	Exostosin	 - 	cl20239
+Q#51 - >Pavir.6KG274900.1.p	specific	367297	122	438	8.90104e-64	208.811	pfam03016	Exostosin	 - 	cl20239
+Q#52 - >Pavir.6KG277100.1.p	specific	367297	122	438	5.94421e-64	209.196	pfam03016	Exostosin	 - 	cl20239
+Q#53 - >Pavir.6NG142200.1.p	specific	367297	119	435	6.11892e-63	206.5	pfam03016	Exostosin	 - 	cl20239
+Q#54 - >Pavir.7KG383800.1.p	specific	367297	58	397	2.1473e-75	238.086	pfam03016	Exostosin	 - 	cl20239
+Q#55 - >Pavir.7NG146300.1.p	specific	367297	61	356	7.12201e-86	263.51	pfam03016	Exostosin	 - 	cl20239
+Q#56 - >Pavir.7NG148200.1.p	specific	367297	58	353	2.323e-86	264.665	pfam03016	Exostosin	 - 	cl20239
+Q#57 - >Pavir.7NG297900.1.p	specific	367297	80	415	5.28007e-72	231.153	pfam03016	Exostosin	 - 	cl20239
+Q#58 - >Pavir.7NG298000.1.p	specific	367297	69	406	1.9596e-76	241.168	pfam03016	Exostosin	 - 	cl20239
+Q#59 - >Pavir.7NG433700.1.p	specific	367297	59	398	3.33495e-76	240.398	pfam03016	Exostosin	 - 	cl20239
+Q#60 - >Pavir.8KG103600.1.p	specific	367297	53	348	1.40414e-75	236.931	pfam03016	Exostosin	 - 	cl20239
+Q#61 - >Pavir.8KG264300.1.p	specific	367297	34	145	4.55117e-24	96.333	pfam03016	Exostosin	N	cl20239
+Q#62 - >Pavir.8KG277900.1.p	superfamily	367297	4	95	1.09079e-21	89.3994	cl20239	Exostosin superfamily	N	 - 
+Q#62 - >Pavir.8KG277900.1.p	superfamily	381863	68	159	0.00713327	36.1074	cl00210	Isoprenoid_Biosyn_C1 superfamily	N	 - 
+Q#63 - >Pavir.8NG017800.1.p	specific	367297	101	406	2.95977e-60	199.181	pfam03016	Exostosin	 - 	cl20239
+Q#64 - >Pavir.9KG090200.1.p	specific	367297	68	378	3.27511e-63	206.115	pfam03016	Exostosin	 - 	cl20239
+Q#65 - >Pavir.9KG212000.1.p	specific	367297	128	469	2.61353e-80	252.724	pfam03016	Exostosin	 - 	cl20239
+Q#66 - >Pavir.9KG212100.1.p	superfamily	367297	87	164	7.83722e-08	52.0351	cl20239	Exostosin superfamily	C	 - 
+Q#67 - >Pavir.9KG212200.1.p	specific	367297	175	519	4.02265e-71	230.768	pfam03016	Exostosin	 - 	cl20239
+Q#68 - >Pavir.9KG212300.1.p	specific	367297	60	400	4.15799e-79	247.331	pfam03016	Exostosin	 - 	cl20239
+Q#69 - >Pavir.9KG337300.1.p	specific	367297	28	368	2.86293e-70	224.219	pfam03016	Exostosin	 - 	cl20239
+Q#70 - >Pavir.9KG557300.1.p	specific	367297	75	370	6.12039e-74	233.079	pfam03016	Exostosin	 - 	cl20239
+Q#71 - >Pavir.9KG557300.2.p	specific	367297	75	370	6.12039e-74	233.079	pfam03016	Exostosin	 - 	cl20239
+Q#72 - >Pavir.9KG584700.1.p	specific	367297	85	428	2.55758e-73	234.234	pfam03016	Exostosin	 - 	cl20239
+Q#73 - >Pavir.9KG584800.1.p	specific	367297	95	435	1.43101e-84	262.739	pfam03016	Exostosin	 - 	cl20239
+Q#74 - >Pavir.9KG584900.1.p	specific	367297	141	480	2.57812e-89	278.147	pfam03016	Exostosin	 - 	cl20239
+Q#75 - >Pavir.9KG612300.1.p	specific	367297	336	691	6.04121e-76	247.331	pfam03016	Exostosin	 - 	cl20239
+Q#75 - >Pavir.9KG612300.1.p	specific	285248	272	296	7.95329e-05	40.0957	pfam07974	EGF_2	 - 	cl21504
+Q#75 - >Pavir.9KG612300.1.p	specific	285248	116	141	0.00108569	37.0141	pfam07974	EGF_2	 - 	cl21504
+Q#76 - >Pavir.9KG612300.2.p	specific	367297	336	691	4.3917e-76	247.331	pfam03016	Exostosin	 - 	cl20239
+Q#76 - >Pavir.9KG612300.2.p	specific	285248	272	296	7.71699e-05	40.0957	pfam07974	EGF_2	 - 	cl21504
+Q#76 - >Pavir.9KG612300.2.p	specific	285248	116	141	0.00108494	37.0141	pfam07974	EGF_2	 - 	cl21504
+Q#77 - >Pavir.9KG612300.3.p	specific	367297	336	691	6.04121e-76	247.331	pfam03016	Exostosin	 - 	cl20239
+Q#77 - >Pavir.9KG612300.3.p	specific	285248	272	296	7.95329e-05	40.0957	pfam07974	EGF_2	 - 	cl21504
+Q#77 - >Pavir.9KG612300.3.p	specific	285248	116	141	0.00108569	37.0141	pfam07974	EGF_2	 - 	cl21504
+Q#78 - >Pavir.9NG040400.1.p	specific	367297	103	449	6.13851e-80	251.954	pfam03016	Exostosin	 - 	cl20239
+Q#78 - >Pavir.9NG040400.1.p	superfamily	235277	438	507	0.00829401	38.6733	cl35257	PRK04309 superfamily	NC	 - 
+Q#79 - >Pavir.9NG077200.1.p	specific	367297	103	449	6.13851e-80	251.954	pfam03016	Exostosin	 - 	cl20239
+Q#79 - >Pavir.9NG077200.1.p	superfamily	235277	438	507	0.00829401	38.6733	cl35257	PRK04309 superfamily	NC	 - 
+Q#80 - >Pavir.9NG267400.1.p	specific	367297	168	512	9.79756e-72	232.308	pfam03016	Exostosin	 - 	cl20239
+Q#81 - >Pavir.9NG267500.1.p	specific	367297	17	173	6.49944e-37	131.001	pfam03016	Exostosin	N	cl20239
+Q#82 - >Pavir.9NG290300.1.p	specific	367297	48	343	6.1699e-80	248.102	pfam03016	Exostosin	 - 	cl20239
+Q#83 - >Pavir.9NG290400.1.p	specific	367297	48	343	8.54512e-85	260.428	pfam03016	Exostosin	 - 	cl20239
+Q#84 - >Pavir.9NG290400.2.p	specific	367297	1	269	1.39829e-72	226.53	pfam03016	Exostosin	 - 	cl20239
+Q#85 - >Pavir.9NG438600.1.p	specific	367297	51	346	4.57806e-77	240.783	pfam03016	Exostosin	 - 	cl20239
+Q#86 - >Pavir.9NG481700.1.p	specific	367297	28	368	1.53158e-71	227.686	pfam03016	Exostosin	 - 	cl20239
+Q#87 - >Pavir.9NG481700.2.p	specific	367297	28	368	1.53158e-71	227.686	pfam03016	Exostosin	 - 	cl20239
+Q#88 - >Pavir.9NG481700.3.p	specific	367297	28	368	1.53158e-71	227.686	pfam03016	Exostosin	 - 	cl20239
+Q#89 - >Pavir.9NG481700.4.p	specific	367297	28	368	1.53158e-71	227.686	pfam03016	Exostosin	 - 	cl20239
+Q#90 - >Pavir.9NG603100.1.p	specific	367297	66	376	1.42837e-63	207.27	pfam03016	Exostosin	 - 	cl20239
+Q#91 - >Pavir.9NG605500.1.p	specific	367297	66	376	1.42837e-63	207.27	pfam03016	Exostosin	 - 	cl20239
+Q#92 - >Pavir.9NG727000.1.p	specific	367297	336	691	1.1495e-76	249.257	pfam03016	Exostosin	 - 	cl20239
+Q#92 - >Pavir.9NG727000.1.p	specific	285248	272	296	1.75428e-05	42.0217	pfam07974	EGF_2	 - 	cl21504
+Q#92 - >Pavir.9NG727000.1.p	specific	285248	116	141	0.000891851	37.0141	pfam07974	EGF_2	 - 	cl21504
+Q#93 - >Pavir.9NG752200.1.p	specific	367297	143	482	4.5885e-89	277.377	pfam03016	Exostosin	 - 	cl20239
+Q#94 - >Pavir.9NG752300.1.p	specific	367297	15	309	1.004e-78	243.479	pfam03016	Exostosin	 - 	cl20239
+Q#95 - >Pavir.9NG752400.1.p	specific	367297	87	433	1.63559e-68	221.908	pfam03016	Exostosin	 - 	cl20239
+Q#96 - >Pavir.9NG752500.1.p	specific	367297	49	352	1.38501e-63	206.5	pfam03016	Exostosin	 - 	cl20239
+Q#97 - >Pavir.9NG752500.2.p	specific	367297	49	352	1.38501e-63	206.5	pfam03016	Exostosin	 - 	cl20239
+Q#98 - >Pavir.9NG832300.1.p	specific	367297	73	370	7.51338e-71	224.99	pfam03016	Exostosin	 - 	cl20239
+Q#99 - >Pavir.J311500.1.p	specific	367297	57	356	6.97045e-68	215.36	pfam03016	Exostosin	 - 	cl20239
+Q#100 - >Pavir.J655600.1.p	specific	367297	76	415	1.46842e-72	233.079	pfam03016	Exostosin	 - 	cl20239
+Q#101 - >Pavir.J655700.1.p	specific	367297	70	266	1.64654e-38	136.009	pfam03016	Exostosin	C	cl20239
+Q#102 - >Pavir.J663300.1.p	specific	367297	103	355	2.35276e-51	172.603	pfam03016	Exostosin	C	cl20239
+Q#103 - >Pavir.J773200.1.p	specific	367297	77	392	3.97908e-68	218.826	pfam03016	Exostosin	 - 	cl20239

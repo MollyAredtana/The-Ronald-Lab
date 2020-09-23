@@ -1,0 +1,15 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-351F6AFA0BEDC2EB-25B8B8F54378DE36
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-23T21:14:11	Run time	0:00:00:15
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.2KG575900.1.p	specific	133465	92	375	3.6901e-136	391.61	cd06855	GT_GPT_euk	 - 	cl10571
+Q#2 - >Pavir.2KG575900.2.p	specific	133465	92	375	8.7726e-137	392.38	cd06855	GT_GPT_euk	 - 	cl10571
+Q#3 - >Pavir.2KG575900.3.p	specific	133465	92	330	5.15235e-106	311.103	cd06855	GT_GPT_euk	 - 	cl10571
+Q#4 - >Pavir.2NG621100.1.p	specific	133465	91	374	2.37881e-135	389.298	cd06855	GT_GPT_euk	 - 	cl10571
+Q#5 - >Pavir.2NG621100.2.p	specific	133465	91	330	1.05491e-105	310.333	cd06855	GT_GPT_euk	 - 	cl10571
+Q#6 - >Pavir.5KG038000.1.p	specific	133462	214	499	9.8042e-68	218.896	cd06852	GT_MraY	 - 	cl10571
+Q#7 - >Pavir.J712800.1.p	specific	133462	178	463	4.47387e-68	218.896	cd06852	GT_MraY	 - 	cl10571
