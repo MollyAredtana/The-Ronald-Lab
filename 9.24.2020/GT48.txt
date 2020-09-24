@@ -1,0 +1,122 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-A0537A724157491-1C2A498EC305DD0E
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T23:38:46	Run time	0:00:03:46
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG175500.1.p	superfamily	367054	7	285	5.28973e-59	205.871	cl15642	Glucan_synthase superfamily	N	 - 
+Q#2 - >Pavir.1KG175500.2.p	superfamily	367054	1	225	6.19791e-55	192.774	cl15642	Glucan_synthase superfamily	N	 - 
+Q#3 - >Pavir.1KG175600.1.p	superfamily	367054	1138	1466	2.83282e-113	377.285	cl15642	Glucan_synthase superfamily	C	 - 
+Q#3 - >Pavir.1KG175600.1.p	specific	372996	338	439	1.0872e-45	159.651	pfam14288	FKS1_dom1	 - 	cl16776
+Q#3 - >Pavir.1KG175600.1.p	superfamily	368039	80	154	5.62036e-08	52.9403	cl24167	Vta1 superfamily	C	 - 
+Q#4 - >Pavir.1KG175600.10.p	superfamily	367054	1015	1343	1.82644e-113	376.129	cl15642	Glucan_synthase superfamily	C	 - 
+Q#4 - >Pavir.1KG175600.10.p	specific	372996	234	335	1.08198e-45	159.651	pfam14288	FKS1_dom1	 - 	cl16776
+Q#5 - >Pavir.1KG175600.2.p	superfamily	367054	1119	1447	2.67106e-113	377.285	cl15642	Glucan_synthase superfamily	C	 - 
+Q#5 - >Pavir.1KG175600.2.p	specific	372996	338	439	1.06016e-45	159.651	pfam14288	FKS1_dom1	 - 	cl16776
+Q#5 - >Pavir.1KG175600.2.p	superfamily	368039	80	154	5.3742e-08	52.9403	cl24167	Vta1 superfamily	C	 - 
+Q#6 - >Pavir.1KG175600.3.p	superfamily	367054	1119	1447	2.76103e-113	377.285	cl15642	Glucan_synthase superfamily	C	 - 
+Q#6 - >Pavir.1KG175600.3.p	specific	372996	338	439	9.83091e-46	159.651	pfam14288	FKS1_dom1	 - 	cl16776
+Q#6 - >Pavir.1KG175600.3.p	superfamily	368039	80	154	5.49088e-08	52.9403	cl24167	Vta1 superfamily	C	 - 
+Q#7 - >Pavir.1KG175600.4.p	superfamily	367054	1115	1443	1.60168e-113	377.67	cl15642	Glucan_synthase superfamily	C	 - 
+Q#7 - >Pavir.1KG175600.4.p	specific	372996	338	439	8.89684e-46	160.036	pfam14288	FKS1_dom1	 - 	cl16776
+Q#7 - >Pavir.1KG175600.4.p	superfamily	368039	80	154	5.80145e-08	52.9403	cl24167	Vta1 superfamily	C	 - 
+Q#8 - >Pavir.1KG175600.5.p	superfamily	367054	1094	1422	1.88397e-113	377.285	cl15642	Glucan_synthase superfamily	C	 - 
+Q#8 - >Pavir.1KG175600.5.p	specific	372996	338	439	9.37999e-46	159.651	pfam14288	FKS1_dom1	 - 	cl16776
+Q#8 - >Pavir.1KG175600.5.p	superfamily	368039	80	154	5.76845e-08	52.9403	cl24167	Vta1 superfamily	C	 - 
+Q#9 - >Pavir.1KG175600.6.p	superfamily	367054	1077	1405	1.42399e-113	377.285	cl15642	Glucan_synthase superfamily	C	 - 
+Q#9 - >Pavir.1KG175600.6.p	specific	372996	338	439	9.82032e-46	159.651	pfam14288	FKS1_dom1	 - 	cl16776
+Q#9 - >Pavir.1KG175600.6.p	superfamily	368039	80	154	5.75144e-08	52.9403	cl24167	Vta1 superfamily	C	 - 
+Q#10 - >Pavir.1KG175600.7.p	superfamily	367054	1071	1399	9.80214e-114	377.67	cl15642	Glucan_synthase superfamily	C	 - 
+Q#10 - >Pavir.1KG175600.7.p	specific	372996	338	439	8.05318e-46	160.036	pfam14288	FKS1_dom1	 - 	cl16776
+Q#10 - >Pavir.1KG175600.7.p	superfamily	368039	80	154	6.00881e-08	52.9403	cl24167	Vta1 superfamily	C	 - 
+Q#11 - >Pavir.1KG175600.8.p	superfamily	367054	1119	1391	5.40481e-81	284.837	cl15642	Glucan_synthase superfamily	C	 - 
+Q#11 - >Pavir.1KG175600.8.p	specific	372996	338	439	8.40384e-46	160.036	pfam14288	FKS1_dom1	 - 	cl16776
+Q#11 - >Pavir.1KG175600.8.p	superfamily	368039	80	154	4.92415e-08	52.9403	cl24167	Vta1 superfamily	C	 - 
+Q#12 - >Pavir.1KG175600.9.p	superfamily	367054	1096	1424	1.42059e-113	377.67	cl15642	Glucan_synthase superfamily	C	 - 
+Q#12 - >Pavir.1KG175600.9.p	specific	372996	338	439	8.75791e-46	160.036	pfam14288	FKS1_dom1	 - 	cl16776
+Q#12 - >Pavir.1KG175600.9.p	superfamily	368039	80	154	5.7642e-08	52.9403	cl24167	Vta1 superfamily	C	 - 
+Q#13 - >Pavir.1KG556900.1.p	superfamily	367054	1	471	0	578.359	cl15642	Glucan_synthase superfamily	N	 - 
+Q#14 - >Pavir.1NG133600.1.p	superfamily	367054	1023	1351	6.865e-116	382.678	cl15642	Glucan_synthase superfamily	C	 - 
+Q#14 - >Pavir.1NG133600.1.p	superfamily	372996	342	361	8.2721e-11	59.8843	cl16776	FKS1_dom1 superfamily	C	 - 
+Q#14 - >Pavir.1NG133600.1.p	superfamily	368039	84	158	5.61415e-08	52.9403	cl24167	Vta1 superfamily	C	 - 
+Q#15 - >Pavir.1NG133600.2.p	superfamily	367054	915	1243	4.92919e-116	381.137	cl15642	Glucan_synthase superfamily	C	 - 
+Q#15 - >Pavir.1NG133600.2.p	superfamily	372996	234	253	8.7798e-11	59.8843	cl16776	FKS1_dom1 superfamily	C	 - 
+Q#16 - >Pavir.1NG133600.3.p	superfamily	367054	737	1065	1.52429e-116	379.211	cl15642	Glucan_synthase superfamily	C	 - 
+Q#16 - >Pavir.1NG133600.3.p	superfamily	372996	9	57	1.0925e-22	93.7819	cl16776	FKS1_dom1 superfamily	N	 - 
+Q#17 - >Pavir.1NG133600.4.p	superfamily	367054	571	899	3.31118e-117	376.514	cl15642	Glucan_synthase superfamily	C	 - 
+Q#18 - >Pavir.1NG133700.1.p	superfamily	367054	1	225	2.7393e-56	196.626	cl15642	Glucan_synthase superfamily	N	 - 
+Q#19 - >Pavir.1NG133700.2.p	superfamily	367054	1	225	2.7393e-56	196.626	cl15642	Glucan_synthase superfamily	N	 - 
+Q#20 - >Pavir.1NG544100.1.p	superfamily	367054	1064	1814	0	935.824	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#20 - >Pavir.1NG544100.1.p	specific	372996	331	444	9.89359e-54	183.148	pfam14288	FKS1_dom1	 - 	cl16776
+Q#20 - >Pavir.1NG544100.1.p	specific	368039	60	169	2.05002e-20	88.7638	pfam04652	Vta1	 - 	cl24167
+Q#21 - >Pavir.1NG544100.2.p	superfamily	367054	1064	1814	0	935.824	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#21 - >Pavir.1NG544100.2.p	specific	372996	331	444	9.89359e-54	183.148	pfam14288	FKS1_dom1	 - 	cl16776
+Q#21 - >Pavir.1NG544100.2.p	specific	368039	60	169	2.05002e-20	88.7638	pfam04652	Vta1	 - 	cl24167
+Q#22 - >Pavir.1NG544100.3.p	superfamily	367054	1064	1786	0	880.356	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#22 - >Pavir.1NG544100.3.p	specific	372996	331	444	1.08464e-53	182.763	pfam14288	FKS1_dom1	 - 	cl16776
+Q#22 - >Pavir.1NG544100.3.p	specific	368039	60	169	2.16129e-20	88.7638	pfam04652	Vta1	 - 	cl24167
+Q#23 - >Pavir.1NG544100.4.p	superfamily	367054	506	1256	0	927.735	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#24 - >Pavir.3NG087600.1.p	superfamily	367054	1	231	2.69939e-97	301.015	cl15642	Glucan_synthase superfamily	NC	 - 
+Q#25 - >Pavir.4KG073800.1.p	superfamily	367054	842	1571	0	888.06	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#25 - >Pavir.4KG073800.1.p	specific	372996	135	236	4.975e-46	160.807	pfam14288	FKS1_dom1	 - 	cl16776
+Q#26 - >Pavir.4NG333500.1.p	superfamily	367054	1066	1818	0	923.498	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#26 - >Pavir.4NG333500.1.p	specific	372996	336	449	2.34994e-53	181.993	pfam14288	FKS1_dom1	 - 	cl16776
+Q#26 - >Pavir.4NG333500.1.p	specific	368039	60	169	4.06615e-19	85.297	pfam04652	Vta1	 - 	cl24167
+Q#27 - >Pavir.4NG338800.1.p	superfamily	367054	1066	1818	0	923.498	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#27 - >Pavir.4NG338800.1.p	specific	372996	336	449	2.34994e-53	181.993	pfam14288	FKS1_dom1	 - 	cl16776
+Q#27 - >Pavir.4NG338800.1.p	specific	368039	60	169	4.06615e-19	85.297	pfam04652	Vta1	 - 	cl24167
+Q#28 - >Pavir.5KG301000.1.p	superfamily	367054	352	1085	0	834.902	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#28 - >Pavir.5KG301000.1.p	superfamily	366147	218	298	0.00250396	41.7506	cl29575	DNA_topoisoIV superfamily	N	 - 
+Q#29 - >Pavir.5KG302100.1.p	superfamily	367054	44	580	0	633.828	cl15642	Glucan_synthase superfamily	N	 - 
+Q#30 - >Pavir.5KG302200.1.p	superfamily	367054	529	601	1.32773e-25	112.268	cl15642	Glucan_synthase superfamily	C	 - 
+Q#31 - >Pavir.5KG435900.1.p	specific	367054	797	1575	0	998.227	pfam02364	Glucan_synthase	 - 	cl15642
+Q#31 - >Pavir.5KG435900.1.p	specific	372996	82	193	8.72609e-50	171.592	pfam14288	FKS1_dom1	 - 	cl16776
+Q#32 - >Pavir.5KG543600.1.p	specific	367054	883	1653	0	1040.21	pfam02364	Glucan_synthase	 - 	cl15642
+Q#32 - >Pavir.5KG543600.1.p	specific	372996	170	283	1.64483e-55	188.156	pfam14288	FKS1_dom1	 - 	cl16776
+Q#33 - >Pavir.5NG388500.1.p	superfamily	367054	1042	1775	0	840.68	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#33 - >Pavir.5NG388500.1.p	specific	372996	355	455	3.73233e-47	164.273	pfam14288	FKS1_dom1	 - 	cl16776
+Q#33 - >Pavir.5NG388500.1.p	superfamily	368039	64	183	1.89817e-10	60.2591	cl24167	Vta1 superfamily	 - 	 - 
+Q#34 - >Pavir.5NG388700.1.p	superfamily	367054	944	1667	0	830.28	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#34 - >Pavir.5NG388700.1.p	specific	372996	271	378	1.71405e-52	179.296	pfam14288	FKS1_dom1	 - 	cl16776
+Q#34 - >Pavir.5NG388700.1.p	superfamily	368039	7	120	0.000729042	41.3843	cl24167	Vta1 superfamily	 - 	 - 
+Q#35 - >Pavir.5NG426500.1.p	specific	367054	797	1575	0	1001.69	pfam02364	Glucan_synthase	 - 	cl15642
+Q#35 - >Pavir.5NG426500.1.p	specific	372996	82	193	1.15602e-49	171.207	pfam14288	FKS1_dom1	 - 	cl16776
+Q#35 - >Pavir.5NG426500.1.p	superfamily	391938	1551	1700	0.00221175	41.777	cl28897	7tm_GPCRs superfamily	C	 - 
+Q#36 - >Pavir.5NG426500.2.p	specific	367054	797	1575	0	1001.69	pfam02364	Glucan_synthase	 - 	cl15642
+Q#36 - >Pavir.5NG426500.2.p	specific	372996	82	193	1.43141e-49	170.822	pfam14288	FKS1_dom1	 - 	cl16776
+Q#37 - >Pavir.5NG501600.1.p	specific	367054	888	1658	0	1033.66	pfam02364	Glucan_synthase	 - 	cl15642
+Q#37 - >Pavir.5NG501600.1.p	specific	372996	175	288	9.63266e-55	185.845	pfam14288	FKS1_dom1	 - 	cl16776
+Q#38 - >Pavir.6KG209900.1.p	superfamily	367054	1066	1820	0	918.875	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#38 - >Pavir.6KG209900.1.p	specific	372996	336	449	7.67867e-53	180.452	pfam14288	FKS1_dom1	 - 	cl16776
+Q#38 - >Pavir.6KG209900.1.p	specific	368039	60	169	4.07046e-19	85.297	pfam04652	Vta1	 - 	cl24167
+Q#39 - >Pavir.9KG272800.1.p	superfamily	367054	1031	1775	0	872.652	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#39 - >Pavir.9KG272800.1.p	specific	372996	355	465	1.3644e-52	179.681	pfam14288	FKS1_dom1	 - 	cl16776
+Q#40 - >Pavir.9KG272800.2.p	superfamily	367054	1031	1722	0	802.93	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#40 - >Pavir.9KG272800.2.p	specific	372996	355	465	9.6271e-53	180.067	pfam14288	FKS1_dom1	 - 	cl16776
+Q#41 - >Pavir.9KG272800.3.p	superfamily	367054	522	1266	0	862.251	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#42 - >Pavir.9KG272800.4.p	superfamily	367054	522	1213	0	793.3	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#43 - >Pavir.9KG272800.5.p	superfamily	367054	522	1266	0	862.251	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#44 - >Pavir.9KG549300.1.p	superfamily	367054	1092	1830	0	874.578	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#44 - >Pavir.9KG549300.1.p	specific	372996	332	475	5.44444e-49	169.666	pfam14288	FKS1_dom1	 - 	cl16776
+Q#44 - >Pavir.9KG549300.1.p	specific	368039	53	162	1.687e-17	80.6746	pfam04652	Vta1	 - 	cl24167
+Q#45 - >Pavir.9KG570300.1.p	superfamily	367054	291	420	8.4423e-46	168.892	cl15642	Glucan_synthase superfamily	C	 - 
+Q#46 - >Pavir.9KG570400.1.p	superfamily	367054	1	473	0	627.279	cl15642	Glucan_synthase superfamily	N	 - 
+Q#47 - >Pavir.9NG359700.1.p	superfamily	367054	1030	1490	0	619.575	cl15642	Glucan_synthase superfamily	C	 - 
+Q#47 - >Pavir.9NG359700.1.p	specific	372996	354	464	5.18007e-54	183.533	pfam14288	FKS1_dom1	 - 	cl16776
+Q#47 - >Pavir.9NG359700.1.p	superfamily	382053	290	364	0.00737053	38.4131	cl00516	Restriction_endonuclease_like superfamily	C	 - 
+Q#48 - >Pavir.9NG359700.2.p	superfamily	367054	1030	1307	1.3531e-87	303.327	cl15642	Glucan_synthase superfamily	C	 - 
+Q#48 - >Pavir.9NG359700.2.p	specific	372996	354	464	7.83167e-54	182.763	pfam14288	FKS1_dom1	 - 	cl16776
+Q#48 - >Pavir.9NG359700.2.p	superfamily	382053	290	364	0.0067102	38.0279	cl00516	Restriction_endonuclease_like superfamily	C	 - 
+Q#49 - >Pavir.9NG717900.1.p	superfamily	367054	58	108	5.92276e-14	66.4288	cl15642	Glucan_synthase superfamily	NC	 - 
+Q#50 - >Pavir.9NG770000.1.p	superfamily	367054	699	1437	0	856.858	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#50 - >Pavir.9NG770000.1.p	superfamily	372996	1	82	8.67225e-25	99.9451	cl16776	FKS1_dom1 superfamily	N	 - 
+Q#51 - >Pavir.9NG770000.2.p	superfamily	367054	383	1121	0	862.251	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#52 - >Pavir.9NG779200.1.p	superfamily	367054	1036	1706	0	833.746	cl15642	Glucan_synthase superfamily	 - 	 - 
+Q#52 - >Pavir.9NG779200.1.p	specific	372996	346	455	1.00793e-51	177.37	pfam14288	FKS1_dom1	 - 	cl16776
+Q#53 - >Pavir.9NG781100.1.p	superfamily	367054	1036	1250	4.17447e-61	225.516	cl15642	Glucan_synthase superfamily	C	 - 
+Q#53 - >Pavir.9NG781100.1.p	specific	372996	346	455	6.19294e-52	177.37	pfam14288	FKS1_dom1	 - 	cl16776
+Q#54 - >Pavir.J225000.1.p	superfamily	367054	97	229	1.08935e-57	195.471	cl15642	Glucan_synthase superfamily	C	 - 
+Q#55 - >Pavir.J246000.1.p	superfamily	367054	386	419	4.19072e-10	61.8064	cl15642	Glucan_synthase superfamily	C	 - 
+Q#56 - >Pavir.J603800.1.p	superfamily	367054	1	282	5.96049e-72	241.309	cl15642	Glucan_synthase superfamily	N	 - 

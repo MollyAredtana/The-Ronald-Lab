@@ -1,0 +1,42 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2817F764615E0818-2FACD8B5799D4EA9
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T22:32:13	Run time	0:00:00:57
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG411200.1.p	specific	310354	145	540	0	654.931	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#2 - >Pavir.1KG422700.1.p	superfamily	329112	145	339	2.14565e-111	330.978	cl23835	Glyco_transf_90 superfamily	C	 - 
+Q#3 - >Pavir.1NG370200.1.p	specific	310354	145	540	0	654.161	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#4 - >Pavir.3KG247100.1.p	superfamily	329112	2	262	6.1881e-118	343.305	cl23835	Glyco_transf_90 superfamily	N	 - 
+Q#5 - >Pavir.3KG247200.1.p	specific	310354	179	566	0	572.884	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#6 - >Pavir.3KG390400.1.p	specific	310354	90	477	0	566.335	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#7 - >Pavir.3KG390600.1.p	specific	310354	120	475	0	545.149	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#8 - >Pavir.3NG149400.1.p	superfamily	329112	129	422	8.11319e-137	398.388	cl23835	Glyco_transf_90 superfamily	C	 - 
+Q#9 - >Pavir.3NG149500.1.p	specific	310354	178	573	0	600.618	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#10 - >Pavir.4KG040800.1.p	specific	310354	78	471	0	607.552	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#11 - >Pavir.4KG040900.1.p	specific	310354	122	479	0	530.512	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#12 - >Pavir.4KG040900.2.p	superfamily	329112	4	186	1.09322e-94	280.517	cl23835	Glyco_transf_90 superfamily	N	 - 
+Q#13 - >Pavir.4KG044300.1.p	specific	310354	146	539	0	616.411	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#14 - >Pavir.4KG044400.1.p	specific	310354	122	485	0	536.29	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#15 - >Pavir.4NG043900.1.p	specific	310354	147	527	0	568.647	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#16 - >Pavir.4NG044100.1.p	specific	310354	88	480	0	624.5	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#17 - >Pavir.4NG044100.2.p	specific	310354	88	480	0	624.5	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#18 - >Pavir.4NG044100.3.p	specific	310354	88	480	0	624.5	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#19 - >Pavir.4NG044100.4.p	specific	310354	86	478	0	624.115	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#20 - >Pavir.6KG000700.1.p	specific	310354	203	589	0	575.195	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#21 - >Pavir.6NG001500.1.p	specific	310354	201	594	0	599.848	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#22 - >Pavir.7KG261400.1.p	superfamily	329112	1	92	7.07844e-45	148.779	cl23835	Glyco_transf_90 superfamily	N	 - 
+Q#23 - >Pavir.7KG264900.1.p	superfamily	329112	105	227	9.90265e-71	220.811	cl23835	Glyco_transf_90 superfamily	C	 - 
+Q#24 - >Pavir.7KG265000.1.p	superfamily	329112	1	159	8.74554e-64	200.396	cl23835	Glyco_transf_90 superfamily	N	 - 
+Q#25 - >Pavir.7KG265100.1.p	specific	310354	152	547	0	658.013	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#26 - >Pavir.7NG331100.1.p	specific	310354	119	510	0	608.707	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#27 - >Pavir.7NG331200.1.p	specific	310354	153	545	0	658.013	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#28 - >Pavir.9KG652500.1.p	specific	310354	1	369	0	609.478	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#29 - >Pavir.9KG652500.2.p	specific	310354	1	369	0	609.478	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#30 - >Pavir.9KG652500.3.p	specific	310354	1	369	0	609.478	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#31 - >Pavir.9NG623900.1.p	specific	310354	123	494	2.52938e-160	460.02	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#32 - >Pavir.9NG624700.1.p	superfamily	329112	2	301	5.05664e-123	357.557	cl23835	Glyco_transf_90 superfamily	 - 	 - 
+Q#33 - >Pavir.9NG798500.1.p	specific	310354	148	543	0	653.39	pfam05686	Glyco_transf_90	 - 	cl23835
+Q#34 - >Pavir.9NG798500.2.p	specific	310354	148	436	7.86054e-174	491.992	pfam05686	Glyco_transf_90	C	cl23835

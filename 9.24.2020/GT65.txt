@@ -1,0 +1,156 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-270592EB4EC42BBC-2461AF390308564B
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T23:01:32	Run time	0:00:04:07
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG062400.1.p	specific	211385	174	509	3.55902e-155	445.471	cd11299	O-FucT_plant	 - 	cl16914
+Q#2 - >Pavir.1KG071200.1.p	specific	211383	228	387	2.81166e-23	96.7175	cd11296	O-FucT_like	N	cl16914
+Q#3 - >Pavir.1KG112000.1.p	superfamily	388359	1	222	5.34212e-90	268.664	cl16914	O-FucT_like superfamily	N	 - 
+Q#4 - >Pavir.1KG489500.1.p	specific	211385	109	434	4.24755e-162	460.879	cd11299	O-FucT_plant	 - 	cl16914
+Q#5 - >Pavir.1NG018100.1.p	superfamily	388359	6	137	2.06363e-58	184.69	cl16914	O-FucT_like superfamily	N	 - 
+Q#6 - >Pavir.1NG019400.1.p	specific	211385	177	512	5.92735e-154	442.774	cd11299	O-FucT_plant	 - 	cl16914
+Q#7 - >Pavir.1NG063400.1.p	specific	211383	228	387	7.78864e-24	98.2583	cd11296	O-FucT_like	N	cl16914
+Q#8 - >Pavir.1NG399300.1.p	specific	211385	95	416	3.55733e-158	452.019	cd11299	O-FucT_plant	 - 	cl16914
+Q#9 - >Pavir.1NG399300.2.p	specific	211385	95	366	3.70121e-117	345.704	cd11299	O-FucT_plant	 - 	cl16914
+Q#10 - >Pavir.1NG399300.3.p	specific	211385	94	365	4.12612e-117	345.704	cd11299	O-FucT_plant	 - 	cl16914
+Q#11 - >Pavir.1NG399300.4.p	specific	211385	94	415	3.96047e-158	452.019	cd11299	O-FucT_plant	 - 	cl16914
+Q#12 - >Pavir.1NG399300.5.p	specific	211385	29	335	1.45994e-146	419.277	cd11299	O-FucT_plant	 - 	cl16914
+Q#13 - >Pavir.1NG399300.6.p	specific	211385	29	335	1.45994e-146	419.277	cd11299	O-FucT_plant	 - 	cl16914
+Q#14 - >Pavir.1NG467800.1.p	specific	211385	107	432	3.4725e-162	460.879	cd11299	O-FucT_plant	 - 	cl16914
+Q#15 - >Pavir.1NG467800.2.p	specific	211385	1	324	1.8086e-160	452.404	cd11299	O-FucT_plant	 - 	cl16914
+Q#16 - >Pavir.1NG467800.3.p	superfamily	388359	1	240	8.57322e-107	312.577	cl16914	O-FucT_like superfamily	N	 - 
+Q#17 - >Pavir.1NG561800.1.p	superfamily	388359	8	95	9.13621e-33	120.362	cl16914	O-FucT_like superfamily	NC	 - 
+Q#17 - >Pavir.1NG561800.1.p	superfamily	177990	142	194	2.17535e-31	118.764	cl31868	PLN02361 superfamily	NC	 - 
+Q#18 - >Pavir.2KG295500.1.p	specific	211385	102	455	9.0976e-144	414.269	cd11299	O-FucT_plant	 - 	cl16914
+Q#19 - >Pavir.2KG394600.1.p	specific	211385	43	363	8.01892e-160	454.715	cd11299	O-FucT_plant	 - 	cl16914
+Q#20 - >Pavir.2KG402000.1.p	specific	211385	95	419	6.58352e-164	464.731	cd11299	O-FucT_plant	 - 	cl16914
+Q#24 - >Pavir.2NG345800.1.p	specific	211385	247	568	7.19729e-155	447.397	cd11299	O-FucT_plant	 - 	cl16914
+Q#25 - >Pavir.2NG397700.1.p	specific	211385	95	419	1.06919e-160	456.641	cd11299	O-FucT_plant	 - 	cl16914
+Q#26 - >Pavir.2NG408700.1.p	superfamily	388359	92	389	8.88685e-100	299.095	cl16914	O-FucT_like superfamily	 - 	 - 
+Q#27 - >Pavir.2NG440700.1.p	superfamily	388359	8	95	5.09967e-33	119.977	cl16914	O-FucT_like superfamily	NC	 - 
+Q#27 - >Pavir.2NG440700.1.p	superfamily	177990	142	193	1.52239e-28	110.29	cl31868	PLN02361 superfamily	NC	 - 
+Q#28 - >Pavir.2NG460100.1.p	superfamily	388359	2	88	5.15876e-43	146.556	cl16914	O-FucT_like superfamily	N	 - 
+Q#32 - >Pavir.2NG649700.1.p	superfamily	388359	222	365	9.46357e-06	45.8712	cl16914	O-FucT_like superfamily	 - 	 - 
+Q#33 - >Pavir.3KG050100.1.p	specific	211385	150	484	3.16476e-156	447.397	cd11299	O-FucT_plant	 - 	cl16914
+Q#34 - >Pavir.3KG050100.2.p	specific	211385	31	365	3.3181e-158	447.782	cd11299	O-FucT_plant	 - 	cl16914
+Q#35 - >Pavir.3KG058600.1.p	specific	211385	92	412	2.03406e-154	440.848	cd11299	O-FucT_plant	 - 	cl16914
+Q#36 - >Pavir.3KG058600.10.p	superfamily	388359	13	231	1.28087e-98	290.235	cl16914	O-FucT_like superfamily	N	 - 
+Q#37 - >Pavir.3KG058600.11.p	specific	211385	2	320	4.46744e-155	438.537	cd11299	O-FucT_plant	 - 	cl16914
+Q#38 - >Pavir.3KG058600.12.p	specific	211385	2	320	1.00007e-154	436.226	cd11299	O-FucT_plant	 - 	cl16914
+Q#39 - >Pavir.3KG058600.2.p	specific	211385	92	412	2.03406e-154	440.848	cd11299	O-FucT_plant	 - 	cl16914
+Q#40 - >Pavir.3KG058600.3.p	specific	211385	92	412	3.87958e-154	438.537	cd11299	O-FucT_plant	 - 	cl16914
+Q#41 - >Pavir.3KG058600.4.p	superfamily	388359	105	323	1.711e-97	292.546	cl16914	O-FucT_like superfamily	N	 - 
+Q#42 - >Pavir.3KG058600.5.p	superfamily	388359	105	323	2.83063e-97	290.235	cl16914	O-FucT_like superfamily	N	 - 
+Q#43 - >Pavir.3KG058600.6.p	specific	211385	2	320	4.46744e-155	438.537	cd11299	O-FucT_plant	 - 	cl16914
+Q#44 - >Pavir.3KG058600.7.p	specific	211385	2	320	4.46744e-155	438.537	cd11299	O-FucT_plant	 - 	cl16914
+Q#45 - >Pavir.3KG058600.8.p	specific	211385	2	320	1.00007e-154	436.226	cd11299	O-FucT_plant	 - 	cl16914
+Q#46 - >Pavir.3KG058600.9.p	superfamily	388359	13	231	5.39155e-99	292.932	cl16914	O-FucT_like superfamily	N	 - 
+Q#47 - >Pavir.3KG070800.1.p	superfamily	388359	87	501	1.70003e-102	313.732	cl16914	O-FucT_like superfamily	 - 	 - 
+Q#48 - >Pavir.3KG164500.1.p	specific	211385	79	420	1.76379e-135	394.239	cd11299	O-FucT_plant	 - 	cl16914
+Q#49 - >Pavir.3KG193900.1.p	specific	211385	79	403	1.52963e-144	416.581	cd11299	O-FucT_plant	 - 	cl16914
+Q#50 - >Pavir.3KG231400.1.p	superfamily	388359	43	210	6.13556e-87	258.649	cl16914	O-FucT_like superfamily	C	 - 
+Q#51 - >Pavir.3KG232100.1.p	superfamily	388359	1	243	2.39721e-106	314.503	cl16914	O-FucT_like superfamily	N	 - 
+Q#52 - >Pavir.3KG232100.2.p	superfamily	388359	2	211	3.24661e-96	287.154	cl16914	O-FucT_like superfamily	N	 - 
+Q#53 - >Pavir.3KG259100.1.p	superfamily	388359	43	209	8.91775e-83	247.478	cl16914	O-FucT_like superfamily	C	 - 
+Q#54 - >Pavir.3NG056400.1.p	superfamily	388359	87	498	3.28908e-101	310.266	cl16914	O-FucT_like superfamily	 - 	 - 
+Q#55 - >Pavir.3NG069200.1.p	superfamily	388359	91	174	1.51918e-41	140.778	cl16914	O-FucT_like superfamily	C	 - 
+Q#56 - >Pavir.3NG069200.2.p	superfamily	388359	91	136	5.63893e-24	93.3981	cl16914	O-FucT_like superfamily	C	 - 
+Q#57 - >Pavir.3NG070300.1.p	superfamily	388359	10	225	6.36485e-99	292.161	cl16914	O-FucT_like superfamily	N	 - 
+Q#58 - >Pavir.3NG070300.10.p	superfamily	388359	43	151	3.18045e-62	195.091	cl16914	O-FucT_like superfamily	N	 - 
+Q#59 - >Pavir.3NG070300.2.p	superfamily	388359	43	151	2.54372e-61	193.165	cl16914	O-FucT_like superfamily	N	 - 
+Q#60 - >Pavir.3NG070300.3.p	superfamily	388359	43	151	2.54372e-61	193.165	cl16914	O-FucT_like superfamily	N	 - 
+Q#61 - >Pavir.3NG070300.4.p	superfamily	388359	43	151	2.54372e-61	193.165	cl16914	O-FucT_like superfamily	N	 - 
+Q#62 - >Pavir.3NG070300.5.p	superfamily	388359	1	93	7.92858e-49	158.882	cl16914	O-FucT_like superfamily	N	 - 
+Q#63 - >Pavir.3NG070300.6.p	superfamily	388359	1	93	7.92858e-49	158.882	cl16914	O-FucT_like superfamily	N	 - 
+Q#64 - >Pavir.3NG070300.7.p	superfamily	388359	1	93	7.92858e-49	158.882	cl16914	O-FucT_like superfamily	N	 - 
+Q#65 - >Pavir.3NG070300.8.p	superfamily	388359	1	93	7.92858e-49	158.882	cl16914	O-FucT_like superfamily	N	 - 
+Q#66 - >Pavir.3NG070300.9.p	superfamily	388359	43	151	3.18045e-62	195.091	cl16914	O-FucT_like superfamily	N	 - 
+Q#67 - >Pavir.4KG131200.1.p	specific	211385	110	435	6.49206e-166	470.509	cd11299	O-FucT_plant	 - 	cl16914
+Q#68 - >Pavir.4KG194800.1.p	specific	211385	164	526	8.99423e-130	381.527	cd11299	O-FucT_plant	 - 	cl16914
+Q#69 - >Pavir.4KG194800.2.p	specific	211385	20	382	2.21759e-131	380.372	cd11299	O-FucT_plant	 - 	cl16914
+Q#70 - >Pavir.4KG194800.3.p	specific	211385	53	415	2.02963e-131	381.913	cd11299	O-FucT_plant	 - 	cl16914
+Q#71 - >Pavir.4KG194800.4.p	specific	211385	20	382	2.21759e-131	380.372	cd11299	O-FucT_plant	 - 	cl16914
+Q#72 - >Pavir.4KG218500.1.p	specific	211385	126	447	2.88486e-163	464.731	cd11299	O-FucT_plant	 - 	cl16914
+Q#73 - >Pavir.4KG218500.2.p	specific	211385	59	367	6.20617e-153	435.455	cd11299	O-FucT_plant	 - 	cl16914
+Q#74 - >Pavir.4KG218500.3.p	specific	211385	1	310	3.2045e-155	438.922	cd11299	O-FucT_plant	 - 	cl16914
+Q#75 - >Pavir.4KG218500.4.p	specific	211385	126	447	2.52469e-164	464.345	cd11299	O-FucT_plant	 - 	cl16914
+Q#76 - >Pavir.4KG231800.1.p	superfamily	388359	130	169	1.31356e-14	70.2862	cl16914	O-FucT_like superfamily	C	 - 
+Q#77 - >Pavir.4KG231800.4.p	superfamily	388359	130	169	1.31356e-14	70.2862	cl16914	O-FucT_like superfamily	C	 - 
+Q#78 - >Pavir.4KG231800.5.p	superfamily	388359	110	149	8.84643e-15	69.901	cl16914	O-FucT_like superfamily	C	 - 
+Q#79 - >Pavir.4KG231800.8.p	superfamily	388359	110	149	1.22002e-14	69.5158	cl16914	O-FucT_like superfamily	C	 - 
+Q#80 - >Pavir.4KG246000.1.p	specific	211385	182	545	1.60163e-125	371.512	cd11299	O-FucT_plant	 - 	cl16914
+Q#81 - >Pavir.4KG246000.2.p	specific	211385	123	486	3.67231e-125	368.431	cd11299	O-FucT_plant	 - 	cl16914
+Q#82 - >Pavir.4KG246000.3.p	specific	211385	118	481	2.36349e-125	368.816	cd11299	O-FucT_plant	 - 	cl16914
+Q#83 - >Pavir.4KG389900.1.p	specific	211385	160	496	9.63027e-157	448.937	cd11299	O-FucT_plant	 - 	cl16914
+Q#84 - >Pavir.4NG072400.1.p	specific	211385	126	447	9.89201e-162	460.879	cd11299	O-FucT_plant	 - 	cl16914
+Q#85 - >Pavir.4NG072400.2.p	specific	211385	126	390	4.06247e-123	357.645	cd11299	O-FucT_plant	 - 	cl16914
+Q#86 - >Pavir.4NG072400.3.p	specific	211385	1	310	1.10752e-153	435.07	cd11299	O-FucT_plant	 - 	cl16914
+Q#87 - >Pavir.4NG107500.1.p	specific	211385	78	440	1.14809e-130	380.757	cd11299	O-FucT_plant	 - 	cl16914
+Q#88 - >Pavir.4NG107500.2.p	specific	211385	20	382	3.54368e-131	379.987	cd11299	O-FucT_plant	 - 	cl16914
+Q#89 - >Pavir.4NG147100.1.p	specific	211385	112	437	9.7856e-165	467.812	cd11299	O-FucT_plant	 - 	cl16914
+Q#90 - >Pavir.4NG286800.1.p	specific	211385	528	864	9.91021e-152	448.552	cd11299	O-FucT_plant	 - 	cl16914
+Q#90 - >Pavir.4NG286800.1.p	superfamily	335237	61	365	3.86438e-150	452.915	cl28725	Methyltransf_29 superfamily	N	 - 
+Q#91 - >Pavir.4NG286800.2.p	superfamily	335237	61	365	1.25998e-152	452.145	cl28725	Methyltransf_29 superfamily	N	 - 
+Q#91 - >Pavir.4NG286800.2.p	superfamily	388359	528	700	3.50008e-80	256.723	cl16914	O-FucT_like superfamily	C	 - 
+Q#92 - >Pavir.4NG329200.1.p	specific	211385	102	455	3.70997e-143	412.729	cd11299	O-FucT_plant	 - 	cl16914
+Q#93 - >Pavir.4NG329200.2.p	specific	211385	69	422	3.08681e-144	414.269	cd11299	O-FucT_plant	 - 	cl16914
+Q#94 - >Pavir.4NG329200.3.p	superfamily	388359	69	276	3.35586e-94	281.376	cl16914	O-FucT_like superfamily	C	 - 
+Q#95 - >Pavir.4NG329200.4.p	superfamily	388359	102	309	4.42277e-93	279.835	cl16914	O-FucT_like superfamily	C	 - 
+Q#96 - >Pavir.4NG329200.5.p	specific	211385	50	403	1.91181e-144	414.269	cd11299	O-FucT_plant	 - 	cl16914
+Q#97 - >Pavir.4NG329200.6.p	superfamily	388359	50	257	1.95961e-94	281.376	cl16914	O-FucT_like superfamily	C	 - 
+Q#98 - >Pavir.5KG074800.1.p	specific	211385	94	418	3.79397e-160	455.101	cd11299	O-FucT_plant	 - 	cl16914
+Q#99 - >Pavir.5KG204400.1.p	superfamily	388359	33	140	2.22908e-49	160.038	cl16914	O-FucT_like superfamily	C	 - 
+Q#100 - >Pavir.5KG204400.2.p	superfamily	388359	33	128	4.10079e-48	156.186	cl16914	O-FucT_like superfamily	C	 - 
+Q#101 - >Pavir.5KG204400.3.p	superfamily	388359	14	94	2.1292e-38	129.607	cl16914	O-FucT_like superfamily	C	 - 
+Q#102 - >Pavir.5KG533800.1.p	specific	211385	174	494	3.04559e-150	433.144	cd11299	O-FucT_plant	 - 	cl16914
+Q#103 - >Pavir.5KG533800.2.p	specific	211385	174	494	1.43295e-150	431.603	cd11299	O-FucT_plant	 - 	cl16914
+Q#104 - >Pavir.5KG620900.1.p	specific	211385	210	544	3.87148e-156	449.708	cd11299	O-FucT_plant	 - 	cl16914
+Q#105 - >Pavir.5KG635200.1.p	specific	211385	178	498	1.46401e-149	431.218	cd11299	O-FucT_plant	 - 	cl16914
+Q#106 - >Pavir.5KG635200.2.p	specific	211385	33	353	7.92893e-151	428.907	cd11299	O-FucT_plant	 - 	cl16914
+Q#107 - >Pavir.5KG635200.3.p	specific	211385	33	353	7.92893e-151	428.907	cd11299	O-FucT_plant	 - 	cl16914
+Q#108 - >Pavir.5KG635200.4.p	specific	211385	33	353	7.92893e-151	428.907	cd11299	O-FucT_plant	 - 	cl16914
+Q#109 - >Pavir.5NG076400.1.p	specific	211385	95	419	2.18203e-159	453.56	cd11299	O-FucT_plant	 - 	cl16914
+Q#110 - >Pavir.5NG076400.2.p	specific	211385	1	313	1.2543e-150	426.981	cd11299	O-FucT_plant	 - 	cl16914
+Q#111 - >Pavir.5NG323300.1.p	specific	211385	226	546	1.22813e-145	423.129	cd11299	O-FucT_plant	 - 	cl16914
+Q#112 - >Pavir.5NG465700.1.p	specific	211385	88	412	1.03339e-149	429.677	cd11299	O-FucT_plant	 - 	cl16914
+Q#113 - >Pavir.5NG582400.1.p	specific	211385	154	488	1.70151e-155	446.241	cd11299	O-FucT_plant	 - 	cl16914
+Q#114 - >Pavir.6KG384300.1.p	specific	211385	84	397	4.60216e-115	339.155	cd11299	O-FucT_plant	 - 	cl16914
+Q#115 - >Pavir.6KG384300.2.p	specific	211385	84	397	4.60216e-115	339.155	cd11299	O-FucT_plant	 - 	cl16914
+Q#116 - >Pavir.6KG404200.1.p	specific	211385	123	441	2.30857e-160	458.953	cd11299	O-FucT_plant	 - 	cl16914
+Q#117 - >Pavir.6NG130400.1.p	superfamily	388359	1	79	3.50549e-10	53.7226	cl16914	O-FucT_like superfamily	NC	 - 
+Q#118 - >Pavir.6NG133000.1.p	superfamily	388359	298	411	1.17141e-46	162.349	cl16914	O-FucT_like superfamily	C	 - 
+Q#119 - >Pavir.6NG334500.1.p	specific	211385	129	442	5.65113e-116	343.007	cd11299	O-FucT_plant	 - 	cl16914
+Q#120 - >Pavir.6NG357700.1.p	specific	211385	122	441	1.88716e-161	462.034	cd11299	O-FucT_plant	 - 	cl16914
+Q#121 - >Pavir.7KG279100.1.p	specific	211385	108	429	1.02739e-158	452.019	cd11299	O-FucT_plant	 - 	cl16914
+Q#122 - >Pavir.7KG290500.1.p	specific	211385	129	449	3.49863e-157	450.863	cd11299	O-FucT_plant	 - 	cl16914
+Q#123 - >Pavir.7NG273700.1.p	specific	211385	118	439	4.16172e-158	450.863	cd11299	O-FucT_plant	 - 	cl16914
+Q#124 - >Pavir.7NG285400.1.p	specific	211385	126	446	1.35881e-158	454.715	cd11299	O-FucT_plant	 - 	cl16914
+Q#125 - >Pavir.7NG285400.2.p	specific	211385	126	446	1.35881e-158	454.715	cd11299	O-FucT_plant	 - 	cl16914
+Q#126 - >Pavir.8KG081100.1.p	specific	211385	135	454	5.93078e-151	433.144	cd11299	O-FucT_plant	 - 	cl16914
+Q#127 - >Pavir.8KG210200.1.p	specific	211385	88	412	1.86622e-150	431.603	cd11299	O-FucT_plant	 - 	cl16914
+Q#128 - >Pavir.8KG210200.2.p	specific	211385	48	372	7.02744e-151	431.218	cd11299	O-FucT_plant	 - 	cl16914
+Q#129 - >Pavir.8KG210200.3.p	specific	211385	48	372	7.02744e-151	431.218	cd11299	O-FucT_plant	 - 	cl16914
+Q#130 - >Pavir.8NG067800.1.p	specific	211385	42	376	3.01111e-155	440.848	cd11299	O-FucT_plant	 - 	cl16914
+Q#131 - >Pavir.9KG004100.1.p	specific	211385	224	544	1.46319e-145	422.744	cd11299	O-FucT_plant	 - 	cl16914
+Q#132 - >Pavir.9KG092900.1.p	specific	211385	1	310	7.00887e-151	427.751	cd11299	O-FucT_plant	 - 	cl16914
+Q#135 - >Pavir.9KG414300.1.p	superfamily	388359	200	361	2.18127e-06	47.7972	cl16914	O-FucT_like superfamily	 - 	 - 
+Q#136 - >Pavir.9KG607100.1.p	specific	211385	62	383	2.17107e-153	436.611	cd11299	O-FucT_plant	 - 	cl16914
+Q#137 - >Pavir.9KG654900.1.p	specific	211385	124	445	1.72491e-157	451.249	cd11299	O-FucT_plant	 - 	cl16914
+Q#141 - >Pavir.9NG439900.1.p	specific	211385	78	415	1.99299e-151	432.759	cd11299	O-FucT_plant	 - 	cl16914
+Q#142 - >Pavir.9NG439900.2.p	specific	211385	78	415	1.99299e-151	432.759	cd11299	O-FucT_plant	 - 	cl16914
+Q#143 - >Pavir.9NG439900.3.p	specific	211385	78	415	1.99299e-151	432.759	cd11299	O-FucT_plant	 - 	cl16914
+Q#144 - >Pavir.9NG559600.1.p	superfamily	388359	201	362	1.73378e-06	48.1824	cl16914	O-FucT_like superfamily	 - 	 - 
+Q#145 - >Pavir.9NG600100.1.p	specific	211385	99	420	2.74535e-163	463.575	cd11299	O-FucT_plant	 - 	cl16914
+Q#146 - >Pavir.9NG600100.2.p	specific	211385	99	413	3.6258e-161	454.715	cd11299	O-FucT_plant	 - 	cl16914
+Q#147 - >Pavir.9NG600100.3.p	specific	211385	1	310	3.56463e-153	433.529	cd11299	O-FucT_plant	 - 	cl16914
+Q#148 - >Pavir.9NG731000.1.p	specific	211385	62	386	4.87114e-153	435.841	cd11299	O-FucT_plant	 - 	cl16914
+Q#150 - >Pavir.J106400.1.p	superfamily	388359	1	56	2.51109e-24	93.7833	cl16914	O-FucT_like superfamily	N	 - 
+Q#151 - >Pavir.J175000.1.p	superfamily	388359	91	388	2.03889e-96	290.235	cl16914	O-FucT_like superfamily	 - 	 - 
+Q#152 - >Pavir.J175000.2.p	superfamily	388359	44	341	4.44141e-97	290.235	cl16914	O-FucT_like superfamily	 - 	 - 
+Q#153 - >Pavir.J507900.1.p	specific	211385	78	415	1.72889e-150	430.448	cd11299	O-FucT_plant	 - 	cl16914
+Q#154 - >Pavir.J638600.1.p	superfamily	388359	88	217	1.91067e-53	173.52	cl16914	O-FucT_like superfamily	C	 - 
+Q#155 - >Pavir.J716500.1.p	superfamily	388359	224	367	2.77431e-07	50.4936	cl16914	O-FucT_like superfamily	 - 	 - 
+Q#156 - >Pavir.J716500.2.p	superfamily	388359	224	323	0.00103073	39.708	cl16914	O-FucT_like superfamily	C	 - 

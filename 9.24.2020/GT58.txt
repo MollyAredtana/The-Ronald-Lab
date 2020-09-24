@@ -1,0 +1,11 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-96322CBCA391692-1EE56D678503C5ED
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T23:24:57	Run time	0:00:00:07
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.5KG070700.1.p	specific	368339	48	398	7.61323e-167	472.339	pfam05208	ALG3	 - 	cl04986
+Q#2 - >Pavir.5NG069600.1.p	specific	368339	34	400	1.24751e-168	476.961	pfam05208	ALG3	 - 	cl04986
+Q#3 - >Pavir.5NG073600.1.p	specific	368339	34	396	1.61151e-171	483.895	pfam05208	ALG3	 - 	cl04986

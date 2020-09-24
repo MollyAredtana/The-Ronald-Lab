@@ -1,0 +1,128 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2A2D38C54780ACAF-D6359CFA910C46A
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T22:37:26	Run time	0:00:03:36
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG224800.1.p	superfamily	215443	1	487	0	1034.42	cl30821	PLN02829 superfamily	N	 - 
+Q#2 - >Pavir.1KG242600.1.p	superfamily	215286	39	528	0	920.039	cl30818	PLN02523 superfamily	 - 	 - 
+Q#3 - >Pavir.1KG336800.1.p	specific	133018	315	560	3.96308e-66	216.744	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#4 - >Pavir.1KG336800.2.p	specific	133018	315	560	3.96308e-66	216.744	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#5 - >Pavir.1KG509600.1.p	superfamily	215286	46	490	7.7974e-179	513.268	cl30818	PLN02523 superfamily	 - 	 - 
+Q#6 - >Pavir.1KG511400.1.p	specific	279798	58	324	4.3146e-48	163.262	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#7 - >Pavir.1NG289600.1.p	specific	133018	315	561	5.85388e-64	210.966	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#8 - >Pavir.1NG402300.1.p	specific	215286	41	527	0	925.431	PLN02523	PLN02523	 - 	cl30818
+Q#9 - >Pavir.1NG535200.1.p	specific	279798	57	323	2.60444e-48	163.647	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#10 - >Pavir.2KG378600.1.p	superfamily	215493	87	682	0	849.234	cl30817	PLN02910 superfamily	 - 	 - 
+Q#11 - >Pavir.2KG409000.1.p	superfamily	215443	175	701	0	853.373	cl30821	PLN02829 superfamily	 - 	 - 
+Q#12 - >Pavir.2KG565800.1.p	specific	279798	66	329	3.53245e-54	178.284	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#13 - >Pavir.2KG570400.1.p	specific	215090	16	315	0	611.313	PLN00176	PLN00176	 - 	cl11394
+Q#14 - >Pavir.2KG585800.1.p	specific	215412	1	637	0	1052.75	PLN02769	PLN02769	 - 	cl30823
+Q#15 - >Pavir.2KG585800.2.p	specific	215412	18	561	0	970.705	PLN02769	PLN02769	 - 	cl30823
+Q#16 - >Pavir.2NG186000.1.p	superfamily	215412	3	205	3.74614e-134	389.439	cl30823	PLN02769 superfamily	N	 - 
+Q#17 - >Pavir.2NG381300.1.p	superfamily	215443	185	705	0	866.855	cl30821	PLN02829 superfamily	 - 	 - 
+Q#18 - >Pavir.2NG381300.2.p	superfamily	215443	70	675	0	869.552	cl30821	PLN02829 superfamily	 - 	 - 
+Q#19 - >Pavir.2NG448300.1.p	superfamily	215493	110	682	0	843.841	cl30817	PLN02910 superfamily	 - 	 - 
+Q#20 - >Pavir.2NG448300.2.p	superfamily	215493	11	590	0	844.226	cl30817	PLN02910 superfamily	 - 	 - 
+Q#21 - >Pavir.2NG448300.3.p	superfamily	215493	3	507	0	842.685	cl30817	PLN02910 superfamily	N	 - 
+Q#22 - >Pavir.2NG618000.1.p	specific	215090	1	317	0	648.678	PLN00176	PLN00176	 - 	cl11394
+Q#23 - >Pavir.2NG634400.1.p	specific	215412	1	640	0	1066.62	PLN02769	PLN02769	 - 	cl30823
+Q#24 - >Pavir.2NG634400.2.p	specific	215412	1	639	0	1061.23	PLN02769	PLN02769	 - 	cl30823
+Q#25 - >Pavir.2NG643700.1.p	specific	279798	58	314	2.7871e-53	175.588	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#26 - >Pavir.3KG002800.1.p	superfamily	215412	12	640	0	948.363	cl30823	PLN02769 superfamily	 - 	 - 
+Q#27 - >Pavir.3KG002800.2.p	superfamily	215412	1	560	0	932.57	cl30823	PLN02769 superfamily	 - 	 - 
+Q#28 - >Pavir.3KG002800.3.p	superfamily	215412	9	506	0	913.695	cl30823	PLN02769 superfamily	N	 - 
+Q#29 - >Pavir.3KG006900.1.p	superfamily	215412	1	385	0	718.399	cl30823	PLN02769 superfamily	N	 - 
+Q#30 - >Pavir.3KG480000.1.p	specific	215468	1	533	0	1074.18	PLN02870	PLN02870	 - 	cl30824
+Q#31 - >Pavir.3NG314000.1.p	specific	215468	1	533	0	1066.48	PLN02870	PLN02870	 - 	cl30824
+Q#32 - >Pavir.3NG314000.2.p	superfamily	215468	1	475	0	951.688	cl30824	PLN02870 superfamily	 - 	 - 
+Q#33 - >Pavir.4KG173600.1.p	superfamily	215286	111	502	0	527.905	cl30818	PLN02523 superfamily	N	 - 
+Q#34 - >Pavir.4KG192200.1.p	specific	279798	61	323	1.81402e-51	171.736	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#35 - >Pavir.4NG099400.1.p	superfamily	215286	100	522	0	526.365	cl30818	PLN02523 superfamily	N	 - 
+Q#36 - >Pavir.4NG099400.2.p	superfamily	215286	100	501	0	537.535	cl30818	PLN02523 superfamily	N	 - 
+Q#37 - >Pavir.4NG337400.1.p	superfamily	215493	76	694	0	908.169	cl30817	PLN02910 superfamily	 - 	 - 
+Q#38 - >Pavir.4NG343100.1.p	superfamily	215493	76	694	0	913.562	cl30817	PLN02910 superfamily	 - 	 - 
+Q#39 - >Pavir.5KG510000.1.p	specific	133018	325	554	3.53859e-62	205.573	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#40 - >Pavir.5KG519300.1.p	superfamily	178458	44	533	4.05223e-143	422.774	cl30816	PLN02867 superfamily	 - 	 - 
+Q#41 - >Pavir.5KG519300.2.p	superfamily	178458	20	437	1.15469e-139	410.448	cl30816	PLN02867 superfamily	N	 - 
+Q#42 - >Pavir.5KG519300.3.p	superfamily	178458	29	446	1.75138e-139	410.448	cl30816	PLN02867 superfamily	N	 - 
+Q#43 - >Pavir.5KG519300.4.p	superfamily	178458	20	437	1.15469e-139	410.448	cl30816	PLN02867 superfamily	N	 - 
+Q#44 - >Pavir.5KG519300.5.p	superfamily	178458	20	437	1.15469e-139	410.448	cl30816	PLN02867 superfamily	N	 - 
+Q#45 - >Pavir.5KG519300.6.p	superfamily	178458	85	465	6.33542e-134	396.966	cl30816	PLN02867 superfamily	N	 - 
+Q#46 - >Pavir.5KG519300.7.p	superfamily	178458	1	378	7.60892e-133	390.802	cl30816	PLN02867 superfamily	N	 - 
+Q#47 - >Pavir.5KG664800.1.p	specific	133018	303	548	7.59473e-77	244.478	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#48 - >Pavir.5KG664800.2.p	specific	133018	303	548	7.59473e-77	244.478	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#49 - >Pavir.5KG664800.3.p	specific	133018	303	548	7.59473e-77	244.478	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#50 - >Pavir.5KG664800.4.p	specific	133018	303	548	7.59473e-77	244.478	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#51 - >Pavir.5KG664800.5.p	specific	133018	303	548	7.59473e-77	244.478	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#52 - >Pavir.5KG673700.1.p	specific	133018	305	550	1.48465e-75	241.396	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#53 - >Pavir.5KG673700.2.p	specific	133018	303	548	1.95357e-75	241.011	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#54 - >Pavir.5KG673700.3.p	specific	133018	303	548	1.95357e-75	241.011	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#55 - >Pavir.5NG475700.1.p	superfamily	178458	1	374	3.7688e-141	411.988	cl30816	PLN02867 superfamily	N	 - 
+Q#56 - >Pavir.6KG146000.1.p	superfamily	215443	1	93	1.34235e-63	202.386	cl30821	PLN02829 superfamily	N	 - 
+Q#57 - >Pavir.6KG226700.1.p	superfamily	215443	1	265	0	621.098	cl30821	PLN02829 superfamily	N	 - 
+Q#58 - >Pavir.6KG336700.1.p	superfamily	215443	59	698	0	797.52	cl30821	PLN02829 superfamily	 - 	 - 
+Q#59 - >Pavir.6KG336700.2.p	superfamily	215443	59	519	6.82574e-139	415.016	cl30821	PLN02829 superfamily	C	 - 
+Q#60 - >Pavir.6KG338600.1.p	superfamily	215443	59	697	0	798.675	cl30821	PLN02829 superfamily	 - 	 - 
+Q#61 - >Pavir.6KG338600.2.p	superfamily	215443	59	518	2.90413e-139	415.787	cl30821	PLN02829 superfamily	C	 - 
+Q#62 - >Pavir.6KG338600.3.p	superfamily	215443	59	662	0	707.768	cl30821	PLN02829 superfamily	 - 	 - 
+Q#63 - >Pavir.6NG201000.1.p	superfamily	215443	27	581	0	917.702	cl30821	PLN02829 superfamily	 - 	 - 
+Q#64 - >Pavir.6NG263100.1.p	superfamily	215443	108	606	0	799.06	cl30821	PLN02829 superfamily	N	 - 
+Q#65 - >Pavir.7KG084800.1.p	superfamily	215493	76	694	0	913.562	cl30817	PLN02910 superfamily	 - 	 - 
+Q#66 - >Pavir.7KG239000.1.p	specific	133018	29	271	6.0071e-84	260.271	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#67 - >Pavir.7KG251600.1.p	specific	215412	5	630	0	983.802	PLN02769	PLN02769	 - 	cl30823
+Q#68 - >Pavir.7KG251600.2.p	specific	215412	5	627	0	992.661	PLN02769	PLN02769	 - 	cl30823
+Q#69 - >Pavir.7KG251600.3.p	superfamily	215412	1	451	0	836.655	cl30823	PLN02769 superfamily	N	 - 
+Q#70 - >Pavir.7KG260800.1.p	specific	279798	52	318	2.03536e-53	176.358	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#71 - >Pavir.7KG406300.1.p	specific	215395	2	555	0	987.348	PLN02742	PLN02742	 - 	cl30819
+Q#72 - >Pavir.7NG046400.1.p	specific	133018	217	462	1.43279e-75	239.085	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#73 - >Pavir.7NG046400.2.p	specific	133018	217	462	1.43279e-75	239.085	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#74 - >Pavir.7NG338600.1.p	specific	279798	51	317	3.46028e-51	170.58	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#75 - >Pavir.7NG354500.1.p	specific	133018	28	270	4.49333e-84	260.656	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#76 - >Pavir.7NG386700.1.p	specific	215395	2	557	0	976.947	PLN02742	PLN02742	 - 	cl30819
+Q#77 - >Pavir.7NG386700.2.p	superfamily	215395	2	418	0	673.795	cl30819	PLN02742 superfamily	C	 - 
+Q#78 - >Pavir.8KG002900.1.p	superfamily	215412	12	640	0	944.126	cl30823	PLN02769 superfamily	 - 	 - 
+Q#79 - >Pavir.8KG002900.2.p	superfamily	215412	12	639	0	945.667	cl30823	PLN02769 superfamily	 - 	 - 
+Q#80 - >Pavir.8KG002900.4.p	superfamily	215412	72	624	0	927.948	cl30823	PLN02769 superfamily	 - 	 - 
+Q#81 - >Pavir.8KG002900.5.p	superfamily	215412	12	550	0	773.097	cl30823	PLN02769 superfamily	 - 	 - 
+Q#82 - >Pavir.8KG306100.1.p	superfamily	178320	74	532	0	653.114	cl30820	PLN02718 superfamily	N	 - 
+Q#83 - >Pavir.8KG306100.2.p	superfamily	178320	2	433	0	644.64	cl30820	PLN02718 superfamily	N	 - 
+Q#84 - >Pavir.8KG306100.3.p	superfamily	178320	2	433	0	644.64	cl30820	PLN02718 superfamily	N	 - 
+Q#85 - >Pavir.8NG018900.1.p	superfamily	215412	14	642	0	944.511	cl30823	PLN02769 superfamily	 - 	 - 
+Q#86 - >Pavir.8NG018900.2.p	superfamily	215412	1	560	0	931.415	cl30823	PLN02769 superfamily	 - 	 - 
+Q#87 - >Pavir.8NG018900.3.p	superfamily	215412	6	558	0	927.177	cl30823	PLN02769 superfamily	 - 	 - 
+Q#88 - >Pavir.8NG018900.4.p	superfamily	215412	3	555	0	928.333	cl30823	PLN02769 superfamily	 - 	 - 
+Q#89 - >Pavir.8NG200200.1.p	superfamily	386096	175	201	1.49127e-05	45.2834	cl11394	Glyco_tranf_GTA_type superfamily	NC	 - 
+Q#90 - >Pavir.8NG271200.1.p	superfamily	178320	84	542	0	647.336	cl30820	PLN02718 superfamily	N	 - 
+Q#91 - >Pavir.8NG271200.2.p	superfamily	178320	84	370	7.78416e-126	375.771	cl30820	PLN02718 superfamily	NC	 - 
+Q#92 - >Pavir.8NG271200.3.p	superfamily	178320	84	362	8.47936e-120	359.977	cl30820	PLN02718 superfamily	NC	 - 
+Q#93 - >Pavir.8NG271200.4.p	superfamily	178320	2	433	0	637.321	cl30820	PLN02718 superfamily	N	 - 
+Q#94 - >Pavir.9KG044800.1.p	superfamily	215493	46	588	0	832.67	cl30817	PLN02910 superfamily	 - 	 - 
+Q#95 - >Pavir.9KG050700.1.p	specific	279798	58	324	4.38931e-52	172.892	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#96 - >Pavir.9KG391000.1.p	specific	215395	13	546	0	997.748	PLN02742	PLN02742	 - 	cl30819
+Q#97 - >Pavir.9KG391000.2.p	specific	215395	13	531	0	972.325	PLN02742	PLN02742	 - 	cl30819
+Q#98 - >Pavir.9KG421700.1.p	specific	215090	1	340	0	692.205	PLN00176	PLN00176	 - 	cl11394
+Q#99 - >Pavir.9KG429800.1.p	specific	215412	1	625	0	1126.71	PLN02769	PLN02769	 - 	cl30823
+Q#100 - >Pavir.9KG453600.1.p	specific	279798	67	324	3.43885e-50	167.884	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#101 - >Pavir.9KG554200.1.p	specific	279798	90	347	1.43938e-70	221.427	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#102 - >Pavir.9KG626800.1.p	superfamily	215468	1	557	0	939.747	cl30824	PLN02870 superfamily	 - 	 - 
+Q#103 - >Pavir.9KG650100.1.p	specific	133018	297	541	1.23746e-81	256.034	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#104 - >Pavir.9NG091000.1.p	specific	279798	58	326	1.82571e-51	171.351	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#105 - >Pavir.9NG092000.1.p	specific	279798	58	326	1.82571e-51	171.351	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#106 - >Pavir.9NG153500.1.p	superfamily	215493	47	589	0	831.9	cl30817	PLN02910 superfamily	 - 	 - 
+Q#107 - >Pavir.9NG153500.2.p	superfamily	215493	47	498	0	676.664	cl30817	PLN02910 superfamily	 - 	 - 
+Q#108 - >Pavir.9NG273400.1.p	specific	133018	303	548	1.17146e-76	244.093	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#109 - >Pavir.9NG273400.2.p	specific	133018	303	548	1.17146e-76	244.093	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#110 - >Pavir.9NG273400.3.p	specific	133018	303	548	1.17146e-76	244.093	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#111 - >Pavir.9NG273400.4.p	specific	133018	251	496	2.84112e-76	241.782	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#112 - >Pavir.9NG528500.1.p	specific	215395	13	546	0	1009.3	PLN02742	PLN02742	 - 	cl30819
+Q#113 - >Pavir.9NG575800.1.p	specific	279798	66	323	1.27427e-60	194.848	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#114 - >Pavir.9NG598900.1.p	specific	215412	1	626	0	1131.33	PLN02769	PLN02769	 - 	cl30823
+Q#115 - >Pavir.9NG610900.1.p	specific	215090	1	340	0	700.68	PLN00176	PLN00176	 - 	cl11394
+Q#116 - >Pavir.9NG647000.1.p	superfamily	215468	1	557	0	911.628	cl30824	PLN02870 superfamily	 - 	 - 
+Q#117 - >Pavir.9NG684200.1.p	specific	279798	270	498	1.757e-59	196.774	pfam01501	Glyco_transf_8	 - 	cl11394
+Q#118 - >Pavir.9NG811800.1.p	specific	133018	311	555	5.35446e-81	254.493	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#119 - >Pavir.J367600.1.p	superfamily	386096	1	91	3.76996e-22	87.7624	cl11394	Glyco_tranf_GTA_type superfamily	N	 - 
+Q#120 - >Pavir.J551600.1.p	superfamily	215286	1	318	2.1064e-145	420.82	cl30818	PLN02523 superfamily	N	 - 

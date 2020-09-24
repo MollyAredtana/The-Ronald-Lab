@@ -1,0 +1,56 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-29AEDF9C9748A1E5-2E880D8871113A8D
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T23:10:46	Run time	0:00:01:04
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.4NG317000.1.p	superfamily	370389	81	326	1.21243e-83	252.978	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#2 - >Pavir.5NG201700.1.p	superfamily	370389	499	730	4.65769e-65	215.999	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#3 - >Pavir.6KG359200.1.p	superfamily	370389	8	266	1.03105e-73	226.014	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#4 - >Pavir.6NG302000.1.p	superfamily	370389	51	318	6.16418e-78	238.725	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#5 - >Pavir.7NG087500.1.p	superfamily	370389	464	695	1.30113e-65	216.769	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#6 - >Pavir.8NG012600.1.p	specific	370389	94	339	4.75554e-93	277.245	pfam09258	Glyco_transf_64	 - 	cl20374
+Q#7 - >Pavir.9KG047500.1.p	superfamily	370389	494	722	3.8761e-61	205.213	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#7 - >Pavir.9KG047500.1.p	superfamily	387370	155	306	0.00453243	39.6399	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#8 - >Pavir.9KG047500.2.p	superfamily	370389	459	687	2.33744e-61	205.213	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#8 - >Pavir.9KG047500.2.p	superfamily	387370	155	306	0.00351823	40.0251	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#9 - >Pavir.9KG047500.3.p	superfamily	370389	438	666	1.83142e-61	205.213	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#10 - >Pavir.9KG047500.4.p	superfamily	370389	366	594	6.90981e-62	204.828	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#10 - >Pavir.9KG047500.4.p	superfamily	387370	27	178	0.00451251	39.2547	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#11 - >Pavir.9KG047500.5.p	superfamily	370389	331	559	3.54425e-62	204.828	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#11 - >Pavir.9KG047500.5.p	superfamily	387370	27	178	0.00293813	39.6399	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#12 - >Pavir.9KG251000.1.p	superfamily	370389	25	195	1.11412e-27	104.676	cl20374	Glyco_transf_64 superfamily	C	 - 
+Q#13 - >Pavir.9NG156200.1.p	superfamily	370389	496	724	1.3973e-62	209.45	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#13 - >Pavir.9NG156200.1.p	superfamily	387370	157	281	0.00287202	40.4103	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#14 - >Pavir.9NG156200.10.p	superfamily	370389	366	594	1.57409e-63	209.45	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#14 - >Pavir.9NG156200.10.p	superfamily	387370	27	151	0.00316725	39.6399	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#15 - >Pavir.9NG156200.11.p	superfamily	370389	496	677	2.5584e-56	191.731	cl20374	Glyco_transf_64 superfamily	C	 - 
+Q#15 - >Pavir.9NG156200.11.p	superfamily	387370	157	281	0.00194537	40.7955	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#16 - >Pavir.9NG156200.12.p	superfamily	370389	496	677	2.5584e-56	191.731	cl20374	Glyco_transf_64 superfamily	C	 - 
+Q#16 - >Pavir.9NG156200.12.p	superfamily	387370	157	281	0.00194537	40.7955	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#17 - >Pavir.9NG156200.13.p	superfamily	370389	496	677	2.5584e-56	191.731	cl20374	Glyco_transf_64 superfamily	C	 - 
+Q#17 - >Pavir.9NG156200.13.p	superfamily	387370	157	281	0.00194537	40.7955	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#18 - >Pavir.9NG156200.14.p	superfamily	370389	366	547	2.91026e-57	191.731	cl20374	Glyco_transf_64 superfamily	C	 - 
+Q#18 - >Pavir.9NG156200.14.p	superfamily	387370	27	151	0.00198819	40.4103	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#19 - >Pavir.9NG156200.15.p	superfamily	370389	366	547	2.91026e-57	191.731	cl20374	Glyco_transf_64 superfamily	C	 - 
+Q#19 - >Pavir.9NG156200.15.p	superfamily	387370	27	151	0.00198819	40.4103	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#20 - >Pavir.9NG156200.16.p	superfamily	370389	366	547	2.91026e-57	191.731	cl20374	Glyco_transf_64 superfamily	C	 - 
+Q#20 - >Pavir.9NG156200.16.p	superfamily	387370	27	151	0.00198819	40.4103	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#21 - >Pavir.9NG156200.2.p	superfamily	370389	496	724	1.3973e-62	209.45	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#21 - >Pavir.9NG156200.2.p	superfamily	387370	157	281	0.00287202	40.4103	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#22 - >Pavir.9NG156200.3.p	superfamily	370389	496	724	1.3973e-62	209.45	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#22 - >Pavir.9NG156200.3.p	superfamily	387370	157	281	0.00287202	40.4103	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#23 - >Pavir.9NG156200.4.p	superfamily	370389	496	724	1.3973e-62	209.45	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#23 - >Pavir.9NG156200.4.p	superfamily	387370	157	281	0.00287202	40.4103	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#24 - >Pavir.9NG156200.5.p	superfamily	370389	496	724	1.3973e-62	209.45	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#24 - >Pavir.9NG156200.5.p	superfamily	387370	157	281	0.00287202	40.4103	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#25 - >Pavir.9NG156200.6.p	superfamily	370389	496	724	1.3973e-62	209.45	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#25 - >Pavir.9NG156200.6.p	superfamily	387370	157	281	0.00287202	40.4103	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#26 - >Pavir.9NG156200.7.p	superfamily	370389	440	668	6.93268e-63	209.065	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#27 - >Pavir.9NG156200.8.p	superfamily	370389	366	594	1.57409e-63	209.45	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#27 - >Pavir.9NG156200.8.p	superfamily	387370	27	151	0.00316725	39.6399	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#28 - >Pavir.9NG156200.9.p	superfamily	370389	366	594	1.57409e-63	209.45	cl20374	Glyco_transf_64 superfamily	 - 	 - 
+Q#28 - >Pavir.9NG156200.9.p	superfamily	387370	27	151	0.00316725	39.6399	cl14647	GH43_62_32_68_117_130 superfamily	C	 - 
+Q#29 - >Pavir.J189700.1.p	specific	370389	94	339	4.75554e-93	277.245	pfam09258	Glyco_transf_64	 - 	cl20374

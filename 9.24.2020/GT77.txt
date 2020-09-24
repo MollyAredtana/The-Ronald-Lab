@@ -1,0 +1,88 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-2FEC21DFEEB5433B-72E8947470D4D2E
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T22:46:05	Run time	0:00:01:57
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG439900.1.p	specific	367480	38	236	5.11047e-65	201.783	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#2 - >Pavir.1KG439900.2.p	specific	367480	38	171	1.57496e-38	130.521	pfam03407	Nucleotid_trans	C	cl11394
+Q#3 - >Pavir.1KG439900.3.p	specific	367480	38	194	1.31157e-42	143.232	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#4 - >Pavir.1KG439900.4.p	specific	367480	1	125	2.30647e-40	134.758	pfam03407	Nucleotid_trans	N	cl11394
+Q#5 - >Pavir.1KG439900.5.p	specific	367480	38	189	5.68711e-48	155.559	pfam03407	Nucleotid_trans	C	cl11394
+Q#6 - >Pavir.1KG439900.6.p	specific	367480	38	171	1.57496e-38	130.521	pfam03407	Nucleotid_trans	C	cl11394
+Q#7 - >Pavir.1KG452600.1.p	specific	367480	155	353	2.03907e-68	214.879	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#8 - >Pavir.1NG267700.1.p	specific	367480	21	170	1.9386e-43	146.314	pfam03407	Nucleotid_trans	C	cl11394
+Q#9 - >Pavir.1NG429200.1.p	specific	367480	155	324	6.57632e-50	165.959	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#10 - >Pavir.1NG429200.2.p	superfamily	386096	155	259	1.66967e-22	91.6156	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#11 - >Pavir.1NG484700.1.p	superfamily	386096	63	184	3.34928e-13	65.422	cl11394	Glyco_tranf_GTA_type superfamily	N	 - 
+Q#12 - >Pavir.1NG532200.1.p	superfamily	386096	115	255	1.86834e-25	99.7048	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#13 - >Pavir.1NG532200.2.p	superfamily	386096	115	192	2.1821e-16	74.2816	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#14 - >Pavir.1NG532200.3.p	superfamily	386096	115	176	7.54895e-10	55.4069	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#15 - >Pavir.1NG532200.4.p	superfamily	386096	115	204	7.31799e-24	94.312	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#16 - >Pavir.2KG251400.1.p	specific	367480	209	405	1.04e-64	206.79	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#17 - >Pavir.2KG251400.2.p	specific	367480	208	404	1.01272e-64	206.79	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#18 - >Pavir.2KG514800.1.p	specific	367480	179	403	1.59477e-54	179.826	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#19 - >Pavir.2NG218500.1.p	specific	367480	109	314	2.04133e-67	210.642	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#20 - >Pavir.2NG283900.1.p	specific	367480	209	405	3.0166e-73	228.747	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#21 - >Pavir.2NG418200.1.p	specific	367480	127	330	3.07037e-59	189.842	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#22 - >Pavir.2NG565600.1.p	specific	367480	197	422	2.44039e-54	179.826	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#23 - >Pavir.2NG565600.2.p	specific	367480	178	403	1.79338e-54	179.826	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#24 - >Pavir.2NG565600.3.p	specific	367480	142	367	6.66425e-54	177.13	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#25 - >Pavir.2NG565600.4.p	specific	367480	78	303	6.41498e-54	175.204	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#26 - >Pavir.2NG565600.5.p	specific	367480	142	367	6.66425e-54	177.13	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#27 - >Pavir.2NG568700.1.p	specific	367480	178	403	5.4852e-55	180.982	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#28 - >Pavir.3KG358200.1.p	specific	367480	435	655	3.96038e-49	170.967	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#29 - >Pavir.3NG122600.1.p	specific	367480	117	333	3.23521e-49	164.033	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#30 - >Pavir.3NG162100.1.p	specific	367480	143	343	3.19848e-67	211.027	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#31 - >Pavir.4KG398300.1.p	specific	367480	127	326	7.20323e-64	202.168	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#32 - >Pavir.4KG398400.1.p	specific	367480	131	330	4.13506e-67	210.642	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#33 - >Pavir.4KG398500.1.p	specific	367480	113	311	1.88148e-65	205.635	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#34 - >Pavir.5KG734000.1.p	specific	367480	121	321	3.54864e-63	200.242	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#35 - >Pavir.5KG734100.1.p	specific	367480	121	319	9.24723e-65	204.479	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#36 - >Pavir.5KG734200.1.p	superfamily	386096	73	168	2.06648e-29	110.105	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#37 - >Pavir.5KG734300.1.p	specific	367480	160	360	1.10974e-62	200.242	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#38 - >Pavir.5KG734400.1.p	specific	367480	134	333	9.14391e-54	176.36	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#39 - >Pavir.5NG194100.1.p	superfamily	386096	394	549	0.000109035	43.4657	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#40 - >Pavir.5NG194100.10.p	superfamily	386096	394	549	0.000110114	43.4657	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#41 - >Pavir.5NG194100.2.p	superfamily	386096	394	549	0.000110114	43.4657	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#42 - >Pavir.5NG194100.3.p	superfamily	386096	394	549	0.000110114	43.4657	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#43 - >Pavir.5NG194100.4.p	superfamily	386096	394	549	0.000110114	43.4657	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#44 - >Pavir.5NG194100.5.p	superfamily	386096	394	549	0.000109035	43.4657	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#45 - >Pavir.5NG194100.6.p	superfamily	386096	394	549	0.000109035	43.4657	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#46 - >Pavir.5NG194100.7.p	superfamily	386096	394	549	0.000109035	43.4657	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#47 - >Pavir.5NG194100.8.p	superfamily	386096	394	549	0.000110114	43.4657	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#48 - >Pavir.5NG194100.9.p	superfamily	386096	394	549	0.000110114	43.4657	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#49 - >Pavir.6KG121700.1.p	specific	367480	128	327	5.86667e-64	202.168	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#50 - >Pavir.6KG121800.1.p	specific	367480	61	260	5.28553e-66	205.635	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#51 - >Pavir.6KG122100.1.p	specific	367480	87	224	1.79182e-43	146.314	pfam03407	Nucleotid_trans	N	cl11394
+Q#52 - >Pavir.6KG122200.1.p	specific	367480	121	322	1.56175e-64	204.094	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#53 - >Pavir.6KG122300.1.p	specific	367480	119	317	6.79299e-65	204.479	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#54 - >Pavir.6KG378500.1.p	specific	367480	129	331	3.40372e-57	184.834	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#55 - >Pavir.6NG170900.1.p	specific	367480	1	150	3.67601e-39	132.447	pfam03407	Nucleotid_trans	N	cl11394
+Q#56 - >Pavir.7KG307300.1.p	specific	367480	133	331	3.99466e-75	231.058	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#57 - >Pavir.9KG014500.1.p	specific	367480	139	337	6.03559e-68	212.953	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#58 - >Pavir.9KG014600.1.p	specific	367480	197	394	1.11611e-68	216.42	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#59 - >Pavir.9KG298600.1.p	specific	367480	119	284	1.03319e-41	143.232	pfam03407	Nucleotid_trans	C	cl11394
+Q#60 - >Pavir.9KG370800.1.p	specific	367480	181	403	3.87858e-53	176.36	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#60 - >Pavir.9KG370800.1.p	specific	269834	76	106	0.0077738	34.4433	cd14686	bZIP	N	cl21462
+Q#61 - >Pavir.9KG468700.1.p	specific	367480	132	358	3.00793e-53	180.982	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#62 - >Pavir.9KG551200.1.p	specific	367480	77	275	3.51393e-71	219.502	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#63 - >Pavir.9KG551200.2.p	specific	367480	61	259	2.42655e-70	216.805	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#64 - >Pavir.9KG551200.3.p	specific	367480	77	275	1.62215e-70	217.191	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#65 - >Pavir.9NG009300.1.p	specific	367480	140	338	8.78987e-68	212.568	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#66 - >Pavir.9NG009600.1.p	specific	367480	181	378	4.11721e-68	214.494	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#67 - >Pavir.9NG118500.1.p	specific	367480	108	312	1.41145e-65	206.02	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#68 - >Pavir.9NG222700.1.p	specific	367480	128	354	1.35353e-53	181.752	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#69 - >Pavir.9NG450400.1.p	specific	367480	442	664	1.92944e-47	166.344	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#70 - >Pavir.9NG508500.1.p	specific	367480	179	401	1.50448e-51	172.122	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#70 - >Pavir.9NG508500.1.p	specific	269834	74	104	0.00472421	34.8285	cd14686	bZIP	N	cl21462
+Q#71 - >Pavir.9NG759800.1.p	specific	367480	131	329	1.08008e-73	227.206	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#72 - >Pavir.J226300.1.p	specific	367480	442	664	1.92944e-47	166.344	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#73 - >Pavir.J447600.1.p	specific	367480	141	341	1.04093e-61	197.16	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#74 - >Pavir.J513500.1.p	specific	367480	128	327	5.86667e-64	202.168	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#75 - >Pavir.J513600.1.p	specific	367480	61	260	5.28553e-66	205.635	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#76 - >Pavir.J660000.1.p	specific	367480	119	317	6.79299e-65	204.479	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#77 - >Pavir.J660100.1.p	specific	367480	121	322	1.56175e-64	204.094	pfam03407	Nucleotid_trans	 - 	cl11394
+Q#78 - >Pavir.J660200.1.p	specific	367480	37	247	1.42388e-51	167.885	pfam03407	Nucleotid_trans	 - 	cl11394

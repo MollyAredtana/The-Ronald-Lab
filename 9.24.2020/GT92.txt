@@ -1,0 +1,22 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1B3526BE6ECA8AA9-34D7B5AE138721A7
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T22:26:51	Run time	0:00:00:39
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG474800.1.p	specific	366762	259	504	3.53538e-33	126.319	pfam01697	Glyco_transf_92	 - 	cl11394
+Q#2 - >Pavir.1NG456600.1.p	specific	366762	256	501	4.1355e-32	123.622	pfam01697	Glyco_transf_92	 - 	cl11394
+Q#3 - >Pavir.4KG219300.1.p	specific	366762	258	483	5.80587e-29	114.763	pfam01697	Glyco_transf_92	 - 	cl11394
+Q#4 - >Pavir.4KG325500.1.p	specific	366762	248	493	8.08639e-29	114.377	pfam01697	Glyco_transf_92	 - 	cl11394
+Q#5 - >Pavir.4NG093100.1.p	specific	366762	247	472	3.4134e-30	118.229	pfam01697	Glyco_transf_92	 - 	cl11394
+Q#6 - >Pavir.4NG239200.1.p	superfamily	386096	407	601	7.96825e-22	95.1174	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#6 - >Pavir.4NG239200.1.p	superfamily	223021	110	402	9.25357e-07	52.2481	cl33720	PHA03247 superfamily	N	 - 
+Q#7 - >Pavir.4NG337700.1.p	superfamily	386096	300	513	1.87993e-25	105.518	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#8 - >Pavir.5KG003900.1.p	superfamily	386096	237	381	0.00169237	39.9645	cl11394	Glyco_tranf_GTA_type superfamily	NC	 - 
+Q#9 - >Pavir.5NG005200.1.p	superfamily	386096	236	380	0.00223659	39.5793	cl11394	Glyco_tranf_GTA_type superfamily	NC	 - 
+Q#10 - >Pavir.6NG019500.1.p	specific	366762	317	527	3.95055e-40	146.349	pfam01697	Glyco_transf_92	 - 	cl11394
+Q#11 - >Pavir.6NG019500.2.p	specific	366762	284	494	2.66628e-40	146.349	pfam01697	Glyco_transf_92	 - 	cl11394
+Q#12 - >Pavir.6NG019500.3.p	specific	366762	284	494	2.66628e-40	146.349	pfam01697	Glyco_transf_92	 - 	cl11394
+Q#13 - >Pavir.6NG021100.1.p	specific	366762	317	527	5.68598e-40	145.964	pfam01697	Glyco_transf_92	 - 	cl11394

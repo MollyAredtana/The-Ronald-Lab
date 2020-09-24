@@ -1,0 +1,12 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-19C2B43085F7062B-20907292FD42FFE
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T22:54:55	Run time	0:00:00:10
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.7KG282300.1.p	specific	133018	43	294	1.48777e-65	210.966	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#2 - >Pavir.7NG275400.1.p	specific	133018	11	247	3.03934e-68	210.58	cd02537	GT8_Glycogenin	 - 	cl11394
+Q#3 - >Pavir.9KG326200.1.p	superfamily	386096	64	300	2.65243e-57	189.78	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#4 - >Pavir.9NG477100.1.p	superfamily	386096	65	301	1.08972e-57	190.935	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 

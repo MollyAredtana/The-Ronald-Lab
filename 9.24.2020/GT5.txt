@@ -1,0 +1,56 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-18956A06F08A5A66-144535D78A04E211
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T23:33:23	Run time	0:00:02:01
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG508800.1.p	specific	273969	211	698	0	600.406	TIGR02095	glgA	 - 	cl37052
+Q#2 - >Pavir.1KG535900.1.p	superfamily	215507	114	683	2.99849e-106	345.349	cl33600	PLN02939 superfamily	N	 - 
+Q#3 - >Pavir.1NG420200.1.p	specific	273969	213	700	0	600.406	TIGR02095	glgA	 - 	cl37052
+Q#4 - >Pavir.1NG498200.1.p	superfamily	215507	93	687	1.02068e-107	349.586	cl33600	PLN02939 superfamily	N	 - 
+Q#5 - >Pavir.2NG285400.1.p	specific	273969	81	583	0	536.078	TIGR02095	glgA	 - 	cl37052
+Q#6 - >Pavir.2NG285400.2.p	specific	273969	81	579	0	534.537	TIGR02095	glgA	 - 	cl37052
+Q#7 - >Pavir.3KG327500.1.p	superfamily	215507	7	827	0	1483.23	cl33600	PLN02939 superfamily	 - 	 - 
+Q#8 - >Pavir.4KG050400.1.p	specific	340822	152	649	0	646.543	cd03791	GT5_Glycogen_synthase_DULL1-like	 - 	cl10013
+Q#8 - >Pavir.4KG050400.1.p	superfamily	392002	53	92	0.000117717	42.4715	cl29137	Trypan_PARP superfamily	NC	 - 
+Q#9 - >Pavir.4KG129900.1.p	superfamily	215507	18	899	0	1676.6	cl33600	PLN02939 superfamily	 - 	 - 
+Q#10 - >Pavir.4KG202700.1.p	specific	340822	93	575	0	577.593	cd03791	GT5_Glycogen_synthase_DULL1-like	 - 	cl10013
+Q#11 - >Pavir.4NG035000.1.p	specific	340822	78	577	0	548.703	cd03791	GT5_Glycogen_synthase_DULL1-like	 - 	cl10013
+Q#12 - >Pavir.4NG057900.1.p	specific	340822	94	591	0	642.691	cd03791	GT5_Glycogen_synthase_DULL1-like	 - 	cl10013
+Q#13 - >Pavir.4NG101300.1.p	specific	340822	268	750	0	583.756	cd03791	GT5_Glycogen_synthase_DULL1-like	 - 	cl10013
+Q#13 - >Pavir.4NG101300.1.p	superfamily	225711	22	198	0.00617149	39.8967	cl34561	FimV superfamily	NC	 - 
+Q#14 - >Pavir.5NG200800.1.p	superfamily	215507	20	902	0	1699.71	cl33600	PLN02939 superfamily	 - 	 - 
+Q#15 - >Pavir.5NG200800.2.p	superfamily	215507	1	803	0	1622.29	cl33600	PLN02939 superfamily	 - 	 - 
+Q#16 - >Pavir.5NG200800.3.p	superfamily	215507	1	803	0	1622.29	cl33600	PLN02939 superfamily	 - 	 - 
+Q#17 - >Pavir.6KG087200.1.p	superfamily	215180	698	1688	0	1769.4	cl33462	PLN02316 superfamily	 - 	 - 
+Q#17 - >Pavir.6KG087200.1.p	superfamily	215180	132	229	1.30527e-08	59.8841	cl33462	PLN02316 superfamily	C	 - 
+Q#18 - >Pavir.6KG087300.1.p	superfamily	215180	544	1159	0	969.34	cl33462	PLN02316 superfamily	C	 - 
+Q#18 - >Pavir.6KG087300.1.p	superfamily	215180	61	155	6.06344e-06	50.6393	cl33462	PLN02316 superfamily	C	 - 
+Q#19 - >Pavir.6KG087300.2.p	superfamily	215180	484	1099	0	965.874	cl33462	PLN02316 superfamily	C	 - 
+Q#19 - >Pavir.6KG087300.2.p	superfamily	215180	1	95	6.49422e-06	50.6393	cl33462	PLN02316 superfamily	C	 - 
+Q#20 - >Pavir.6KG087400.1.p	superfamily	215180	3	399	0	864.951	cl33462	PLN02316 superfamily	N	 - 
+Q#21 - >Pavir.6NG087700.1.p	superfamily	215180	117	719	0	1310.63	cl33462	PLN02316 superfamily	N	 - 
+Q#22 - >Pavir.6NG087700.2.p	superfamily	215180	71	652	0	1291.75	cl33462	PLN02316 superfamily	N	 - 
+Q#23 - >Pavir.6NG087700.3.p	superfamily	215180	57	659	0	1310.63	cl33462	PLN02316 superfamily	N	 - 
+Q#24 - >Pavir.6NG087700.4.p	superfamily	215180	7	589	0	1296.37	cl33462	PLN02316 superfamily	N	 - 
+Q#25 - >Pavir.6NG087700.5.p	superfamily	215180	67	649	0	1302.15	cl33462	PLN02316 superfamily	N	 - 
+Q#26 - >Pavir.6NG087700.6.p	superfamily	215180	117	719	0	1310.63	cl33462	PLN02316 superfamily	N	 - 
+Q#27 - >Pavir.6NG087700.7.p	superfamily	215180	35	637	0	1310.24	cl33462	PLN02316 superfamily	N	 - 
+Q#28 - >Pavir.6NG088000.1.p	superfamily	215180	606	1363	0	1363.01	cl33462	PLN02316 superfamily	C	 - 
+Q#28 - >Pavir.6NG088000.1.p	superfamily	215180	63	157	4.12872e-06	51.4097	cl33462	PLN02316 superfamily	C	 - 
+Q#29 - >Pavir.6NG088000.2.p	superfamily	215180	606	1363	0	1363.01	cl33462	PLN02316 superfamily	C	 - 
+Q#29 - >Pavir.6NG088000.2.p	superfamily	215180	63	157	4.12872e-06	51.4097	cl33462	PLN02316 superfamily	C	 - 
+Q#30 - >Pavir.6NG088000.3.p	superfamily	215180	576	1333	0	1360.7	cl33462	PLN02316 superfamily	C	 - 
+Q#30 - >Pavir.6NG088000.3.p	superfamily	215180	33	127	4.16071e-06	51.4097	cl33462	PLN02316 superfamily	C	 - 
+Q#31 - >Pavir.7KG392600.1.p	specific	215180	63	1186	0	1964.7	PLN02316	PLN02316	 - 	cl33462
+Q#32 - >Pavir.7NG362400.1.p	specific	215180	63	1186	0	1963.54	PLN02316	PLN02316	 - 	cl33462
+Q#33 - >Pavir.9KG205500.1.p	specific	273969	292	779	0	617.74	TIGR02095	glgA	 - 	cl37052
+Q#34 - >Pavir.9KG205500.2.p	specific	273969	183	670	0	616.585	TIGR02095	glgA	 - 	cl37052
+Q#35 - >Pavir.9KG205500.3.p	specific	273969	208	695	0	616.585	TIGR02095	glgA	 - 	cl37052
+Q#36 - >Pavir.9KG205500.4.p	specific	273969	183	670	0	616.585	TIGR02095	glgA	 - 	cl37052
+Q#37 - >Pavir.9KG205500.5.p	specific	273969	208	695	0	616.585	TIGR02095	glgA	 - 	cl37052
+Q#38 - >Pavir.9NG322300.1.p	specific	273969	283	755	0	585.384	TIGR02095	glgA	 - 	cl37052
+Q#39 - >Pavir.9NG322300.2.p	specific	273969	183	655	0	583.843	TIGR02095	glgA	 - 	cl37052
+Q#40 - >Pavir.J384900.1.p	specific	340822	80	579	0	547.547	cd03791	GT5_Glycogen_synthase_DULL1-like	 - 	cl10013

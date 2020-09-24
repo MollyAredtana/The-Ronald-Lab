@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3018426916E86085-2E70032B1C7D81A6
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-24T23:30:58	Run time	0:00:00:06
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.2KG219700.1.p	specific	178434	4	445	0	688.067	PLN02841	PLN02841	 - 	cl21590
+Q#2 - >Pavir.2NG264800.1.p	specific	178434	4	445	0	682.674	PLN02841	PLN02841	 - 	cl21590
