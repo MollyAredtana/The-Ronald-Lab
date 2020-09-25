@@ -1,0 +1,20 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3EEC4A95CBEB393F-1DF65C39C8790D60
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-25T18:34:13	Run time	0:00:00:21
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG119900.1.p	superfamily	385653	8	345	0.000234195	42.9236	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#2 - >Pavir.1NG543100.1.p	specific	340817	10	504	8.35427e-27	112.26	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#3 - >Pavir.1NG543100.2.p	specific	340817	10	470	8.85822e-28	114.571	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#4 - >Pavir.1NG543100.3.p	superfamily	385653	10	453	9.48138e-22	96.8515	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#5 - >Pavir.2NG276200.1.p	specific	340817	130	546	4.77367e-82	262.487	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#6 - >Pavir.2NG276200.2.p	specific	340817	130	395	7.71713e-41	149.624	cd03784	GT1_Gtf-like	C	cl10013
+Q#7 - >Pavir.5KG656500.1.p	superfamily	385653	171	297	1.64859e-23	93.4967	cl10013	Glycosyltransferase_GTB-type superfamily	 - 	 - 
+Q#8 - >Pavir.5KG659000.1.p	specific	340817	169	584	1.19502e-85	273.273	cd03784	GT1_Gtf-like	 - 	cl10013
+Q#9 - >Pavir.7KG054200.1.p	specific	367306	161	305	4.4206e-39	135.098	pfam03033	Glyco_transf_28	 - 	cl10013
+Q#10 - >Pavir.7KG054200.2.p	specific	367306	109	253	3.49066e-39	133.943	pfam03033	Glyco_transf_28	 - 	cl10013
+Q#11 - >Pavir.J460200.1.p	specific	367306	110	227	1.28221e-26	99.6599	pfam03033	Glyco_transf_28	C	cl10013
+Q#12 - >Pavir.J618500.1.p	superfamily	385653	136	310	1.74605e-20	90.3522	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 

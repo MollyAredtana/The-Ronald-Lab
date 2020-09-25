@@ -1,0 +1,19 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-32760B536E9EDD39-F0D156F5C8079AE
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-25T18:55:06	Run time	0:00:00:37
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.5KG511900.1.p	superfamily	385653	1	66	4.01381e-32	115.702	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#2 - >Pavir.5KG534600.1.p	specific	340853	29	832	0	1295.95	cd04300	GT35_Glycogen_Phosphorylase	 - 	cl10013
+Q#3 - >Pavir.5KG534600.2.p	specific	340853	29	821	0	1274.77	cd04300	GT35_Glycogen_Phosphorylase	 - 	cl10013
+Q#4 - >Pavir.5KG635900.1.p	specific	340853	29	832	0	1296.72	cd04300	GT35_Glycogen_Phosphorylase	 - 	cl10013
+Q#5 - >Pavir.8KG188200.1.p	specific	340853	105	990	0	1196.96	cd04300	GT35_Glycogen_Phosphorylase	 - 	cl10013
+Q#6 - >Pavir.8KG188200.2.p	specific	340853	66	951	0	1198.88	cd04300	GT35_Glycogen_Phosphorylase	 - 	cl10013
+Q#7 - >Pavir.9KG130500.1.p	superfamily	385653	35	111	1.51924e-42	147.081	cl10013	Glycosyltransferase_GTB-type superfamily	NC	 - 
+Q#8 - >Pavir.9NG048000.1.p	specific	340853	88	978	0	1210.44	cd04300	GT35_Glycogen_Phosphorylase	 - 	cl10013
+Q#9 - >Pavir.9NG048000.2.p	specific	340853	53	943	0	1210.82	cd04300	GT35_Glycogen_Phosphorylase	 - 	cl10013
+Q#10 - >Pavir.9NG048000.3.p	specific	340853	9	899	0	1205.43	cd04300	GT35_Glycogen_Phosphorylase	 - 	cl10013
+Q#11 - >Pavir.9NG055300.1.p	specific	340853	105	955	0	1109.13	cd04300	GT35_Glycogen_Phosphorylase	 - 	cl10013

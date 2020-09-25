@@ -1,0 +1,10 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-1E4280F03DF30DB-3C31B0078E94CD0C
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-25T18:19:18	Run time	0:00:00:04
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.8KG156000.1.p	specific	370892	42	161	4.83243e-49	158.673	pfam10218	DUF2054	 - 	cl10907
+Q#1 - >Pavir.8KG156000.1.p	superfamily	373485	184	277	6.34615e-06	46.8728	cl20900	Glyco_transf_18 superfamily	N	 - 

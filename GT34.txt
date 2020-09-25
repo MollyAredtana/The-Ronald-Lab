@@ -1,0 +1,34 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-3C23FB9E3BA451C3-2944B8AA7CE49A98
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-25T18:52:32	Run time	0:00:00:37
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.1KG310500.1.p	specific	215617	42	481	0	777.327	PLN03182	PLN03182	 - 	cl11394
+Q#2 - >Pavir.1KG314500.1.p	specific	215617	42	474	0	779.638	PLN03182	PLN03182	 - 	cl11394
+Q#3 - >Pavir.1KG486700.1.p	superfamily	386096	1	214	2.51786e-137	392.209	cl11394	Glyco_tranf_GTA_type superfamily	N	 - 
+Q#4 - >Pavir.1NG280200.1.p	specific	215617	37	475	0	781.564	PLN03182	PLN03182	 - 	cl11394
+Q#5 - >Pavir.2KG246900.1.p	superfamily	386096	73	291	6.62758e-26	102.824	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#6 - >Pavir.2KG391800.1.p	superfamily	386096	12	128	1.42124e-39	140.288	cl11394	Glyco_tranf_GTA_type superfamily	NC	 - 
+Q#7 - >Pavir.2NG277600.1.p	superfamily	386096	97	206	1.06361e-19	83.5638	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#8 - >Pavir.2NG330100.1.p	superfamily	386096	49	450	0	557.46	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#9 - >Pavir.3KG027500.1.p	specific	215617	1	276	1.74285e-171	482.264	PLN03182	PLN03182	N	cl11394
+Q#10 - >Pavir.3KG027600.1.p	specific	215617	5	440	0	728.407	PLN03182	PLN03182	 - 	cl11394
+Q#11 - >Pavir.3NG015900.1.p	superfamily	386096	1	238	7.17233e-147	417.936	cl11394	Glyco_tranf_GTA_type superfamily	N	 - 
+Q#12 - >Pavir.3NG016000.1.p	specific	215617	10	448	0	728.407	PLN03182	PLN03182	 - 	cl11394
+Q#13 - >Pavir.8KG280100.1.p	superfamily	386096	1	328	0	575.179	cl11394	Glyco_tranf_GTA_type superfamily	N	 - 
+Q#14 - >Pavir.8KG280200.1.p	superfamily	386096	1	332	0	560.156	cl11394	Glyco_tranf_GTA_type superfamily	N	 - 
+Q#15 - >Pavir.9KG447700.1.p	superfamily	386096	121	185	3.77512e-35	128.347	cl11394	Glyco_tranf_GTA_type superfamily	NC	 - 
+Q#16 - >Pavir.9KG465300.1.p	specific	215617	82	436	0	640.196	PLN03182	PLN03182	 - 	cl11394
+Q#17 - >Pavir.9KG465400.1.p	specific	215617	42	503	0	618.239	PLN03182	PLN03182	 - 	cl11394
+Q#18 - >Pavir.9KG465500.1.p	specific	215617	35	437	0	602.831	PLN03182	PLN03182	 - 	cl11394
+Q#19 - >Pavir.9KG471100.1.p	specific	215617	2	444	0	803.135	PLN03182	PLN03182	 - 	cl11394
+Q#20 - >Pavir.9NG676900.1.p	specific	215617	1	441	0	633.262	PLN03182	PLN03182	 - 	cl11394
+Q#21 - >Pavir.9NG677000.1.p	specific	215617	44	417	0	590.89	PLN03182	PLN03182	 - 	cl11394
+Q#22 - >Pavir.9NG677100.1.p	superfamily	386096	1	240	4.41105e-160	450.292	cl11394	Glyco_tranf_GTA_type superfamily	N	 - 
+Q#23 - >Pavir.9NG681500.1.p	specific	215617	2	441	0	797.742	PLN03182	PLN03182	 - 	cl11394
+Q#24 - >Pavir.9NG708500.1.p	specific	215617	2	441	0	795.816	PLN03182	PLN03182	 - 	cl11394
+Q#25 - >Pavir.J107600.1.p	specific	215617	1	252	0	553.526	PLN03182	PLN03182	N	cl11394
+Q#26 - >Pavir.J320700.1.p	specific	215616	5	354	0	622.944	PLN03181	PLN03181	 - 	cl11394

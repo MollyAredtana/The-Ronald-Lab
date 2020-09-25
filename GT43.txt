@@ -1,0 +1,43 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-FEDACDC87A22394-1DE9A4F198C8A962
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-25T19:09:53	Run time	0:00:00:50
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.2KG204300.1.p	superfamily	386096	12	361	1.472e-112	331.489	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#2 - >Pavir.2NG612400.1.p	superfamily	386096	18	330	4.53382e-69	219.396	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#3 - >Pavir.2NG612400.2.p	superfamily	386096	18	296	3.44273e-55	182.417	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#4 - >Pavir.3KG122200.1.p	superfamily	386096	1	194	1.21503e-85	255.99	cl11394	Glyco_tranf_GTA_type superfamily	N	 - 
+Q#5 - >Pavir.3KG297300.1.p	specific	132995	194	428	3.0579e-100	298.826	cd00218	GlcAT-I	 - 	cl11394
+Q#6 - >Pavir.3KG297300.2.p	superfamily	386096	194	308	5.69003e-48	160.925	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#7 - >Pavir.3KG302200.1.p	specific	132995	195	429	6.39409e-100	298.056	cd00218	GlcAT-I	 - 	cl11394
+Q#8 - >Pavir.4KG389200.1.p	specific	367462	486	724	1.11866e-66	219.681	pfam03360	Glyco_transf_43	 - 	cl11394
+Q#8 - >Pavir.4KG389200.1.p	superfamily	393306	233	296	8.07462e-30	118.145	cl38936	P-loop_NTPase superfamily	C	 - 
+Q#8 - >Pavir.4KG389200.1.p	specific	238009	65	121	8.78137e-19	80.7266	cd00052	EH	 - 	cl08302
+Q#8 - >Pavir.4KG389200.1.p	specific	374864	197	229	7.55982e-15	68.5579	pfam16880	EHD_N	 - 	cl25177
+Q#9 - >Pavir.4NG285000.1.p	specific	367462	217	455	6.05207e-68	217.37	pfam03360	Glyco_transf_43	 - 	cl11394
+Q#10 - >Pavir.5KG082200.1.p	superfamily	386096	1	325	7.08078e-70	221.707	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#11 - >Pavir.5KG159100.1.p	superfamily	386096	61	178	6.81552e-16	74.561	cl11394	Glyco_tranf_GTA_type superfamily	N	 - 
+Q#12 - >Pavir.5KG185900.1.p	specific	367462	93	309	2.03187e-89	265.905	pfam03360	Glyco_transf_43	 - 	cl11394
+Q#13 - >Pavir.5KG432800.1.p	specific	132995	195	424	5.88381e-99	295.359	cd00218	GlcAT-I	 - 	cl11394
+Q#14 - >Pavir.5NG086300.1.p	superfamily	386096	3	244	6.19597e-69	216.314	cl11394	Glyco_tranf_GTA_type superfamily	N	 - 
+Q#15 - >Pavir.5NG411600.1.p	specific	132995	195	424	1.96212e-97	291.507	cd00218	GlcAT-I	 - 	cl11394
+Q#16 - >Pavir.5NG430000.1.p	specific	132995	195	424	3.84611e-97	290.737	cd00218	GlcAT-I	 - 	cl11394
+Q#17 - >Pavir.5NG465100.1.p	specific	132995	195	424	3.84611e-97	290.737	cd00218	GlcAT-I	 - 	cl11394
+Q#18 - >Pavir.6KG206200.1.p	specific	368115	266	585	1.53462e-97	301.375	pfam04782	DUF632	 - 	cl04746
+Q#19 - >Pavir.6KG206200.2.p	superfamily	368115	266	529	1.36389e-61	205.845	cl04746	DUF632 superfamily	 - 	 - 
+Q#20 - >Pavir.7KG356600.1.p	specific	367462	145	356	3.09689e-79	242.022	pfam03360	Glyco_transf_43	 - 	cl11394
+Q#21 - >Pavir.7KG422500.1.p	superfamily	386096	168	399	2.13663e-60	195.978	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#22 - >Pavir.7NG382100.1.p	superfamily	386096	168	399	5.47486e-60	195.207	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#23 - >Pavir.7NG382100.2.p	superfamily	386096	168	399	4.85359e-60	194.437	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#24 - >Pavir.9KG303200.1.p	specific	368115	376	695	3.08956e-90	284.811	pfam04782	DUF632	 - 	cl04746
+Q#25 - >Pavir.9KG303200.2.p	superfamily	368115	376	639	2.96085e-61	206.616	cl04746	DUF632 superfamily	 - 	 - 
+Q#26 - >Pavir.9KG479700.1.p	superfamily	386096	9	335	4.34578e-109	321.859	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#27 - >Pavir.9KG497100.1.p	specific	132995	195	429	6.39409e-100	298.056	cd00218	GlcAT-I	 - 	cl11394
+Q#28 - >Pavir.9NG687700.1.p	superfamily	386096	9	333	1.98299e-108	320.318	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 
+Q#29 - >Pavir.9NG687700.2.p	superfamily	386096	1	219	8.77596e-60	191.277	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#30 - >Pavir.9NG687700.3.p	superfamily	386096	1	219	3.7436e-59	190.891	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#31 - >Pavir.J242000.1.p	superfamily	386096	12	233	2.10141e-46	156.994	cl11394	Glyco_tranf_GTA_type superfamily	C	 - 
+Q#32 - >Pavir.J592200.1.p	superfamily	386096	168	399	5.47486e-60	195.207	cl11394	Glyco_tranf_GTA_type superfamily	 - 	 - 

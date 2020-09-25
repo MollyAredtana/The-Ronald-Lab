@@ -1,0 +1,50 @@
+#Batch CD-search tool	NIH/NLM/NCBI
+#cdsid	QM3-qcdsearch-30E8B51D5DE3EDFD-369F5C74DE072D89
+#datatype	hitsConcise Results
+#status	0
+#Start time	2020-09-25T18:49:33	Run time	0:00:01:01
+#status	success
+
+Query	Hit type	PSSM-ID	From	To	E-Value	Bitscore	Accession	Short name	Incomplete	Superfamily
+Q#1 - >Pavir.2NG078900.1.p	superfamily	385653	18	154	6.5265e-37	133.105	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#2 - >Pavir.2NG463000.1.p	superfamily	223231	477	958	1.23732e-35	139.747	cl33780	GalK superfamily	 - 	 - 
+Q#2 - >Pavir.2NG463000.1.p	superfamily	385653	191	307	2.87895e-06	50.3946	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#2 - >Pavir.2NG463000.1.p	superfamily	385653	16	177	5.11996e-06	49.8572	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#2 - >Pavir.2NG463000.1.p	superfamily	389743	722	777	0.00336627	40.3499	cl21453	PKc_like superfamily	C	 - 
+Q#3 - >Pavir.5NG026700.1.p	superfamily	179937	599	742	5.87918e-27	113.865	cl32074	PRK05101 superfamily	NC	 - 
+Q#3 - >Pavir.5NG026700.1.p	superfamily	272924	490	884	5.44038e-20	93.3504	cl36593	gal_kin superfamily	C	 - 
+Q#3 - >Pavir.5NG026700.1.p	superfamily	385653	191	307	2.51165e-06	50.7798	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#3 - >Pavir.5NG026700.1.p	superfamily	385653	16	177	8.07472e-06	49.0868	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#4 - >Pavir.5NG026700.2.p	superfamily	179937	599	742	5.80797e-27	113.865	cl32074	PRK05101 superfamily	NC	 - 
+Q#4 - >Pavir.5NG026700.2.p	superfamily	272924	490	882	3.01971e-20	94.1208	cl36593	gal_kin superfamily	C	 - 
+Q#4 - >Pavir.5NG026700.2.p	superfamily	385653	191	307	2.50543e-06	50.7798	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#4 - >Pavir.5NG026700.2.p	superfamily	385653	16	177	7.98508e-06	49.0868	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#5 - >Pavir.5NG026700.3.p	superfamily	179937	598	741	5.79961e-27	113.865	cl32074	PRK05101 superfamily	NC	 - 
+Q#5 - >Pavir.5NG026700.3.p	superfamily	272924	489	881	3.01544e-20	94.1208	cl36593	gal_kin superfamily	C	 - 
+Q#5 - >Pavir.5NG026700.3.p	superfamily	385653	191	307	2.50232e-06	50.7798	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#5 - >Pavir.5NG026700.3.p	superfamily	385653	16	177	7.97518e-06	49.0868	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#6 - >Pavir.5NG026700.4.p	superfamily	179937	580	723	5.39213e-27	113.865	cl32074	PRK05101 superfamily	NC	 - 
+Q#6 - >Pavir.5NG026700.4.p	superfamily	272924	471	863	2.93856e-20	94.1208	cl36593	gal_kin superfamily	C	 - 
+Q#6 - >Pavir.5NG026700.4.p	superfamily	385653	191	307	2.44634e-06	50.7798	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#6 - >Pavir.5NG026700.4.p	superfamily	385653	16	177	8.5048e-06	49.0868	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#7 - >Pavir.5NG026700.5.p	superfamily	179937	579	722	5.38415e-27	113.865	cl32074	PRK05101 superfamily	NC	 - 
+Q#7 - >Pavir.5NG026700.5.p	superfamily	272924	470	862	2.93429e-20	94.1208	cl36593	gal_kin superfamily	C	 - 
+Q#7 - >Pavir.5NG026700.5.p	superfamily	385653	191	307	2.44323e-06	50.7798	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#7 - >Pavir.5NG026700.5.p	superfamily	385653	16	177	8.34768e-06	49.0868	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#8 - >Pavir.5NG026700.6.p	superfamily	179937	598	741	5.81633e-27	113.865	cl32074	PRK05101 superfamily	NC	 - 
+Q#8 - >Pavir.5NG026700.6.p	superfamily	272924	489	883	5.43272e-20	93.3504	cl36593	gal_kin superfamily	C	 - 
+Q#8 - >Pavir.5NG026700.6.p	superfamily	385653	191	307	2.50854e-06	50.7798	cl10013	Glycosyltransferase_GTB-type superfamily	N	 - 
+Q#8 - >Pavir.5NG026700.6.p	superfamily	385653	16	177	7.85726e-06	49.0868	cl10013	Glycosyltransferase_GTB-type superfamily	C	 - 
+Q#9 - >Pavir.5NG322700.1.p	superfamily	274147	1	808	0	1486.96	cl37117	sucrsPsyn_pln superfamily	 - 	 - 
+Q#10 - >Pavir.5NG322700.2.p	superfamily	274147	1	808	0	1486.96	cl37117	sucrsPsyn_pln superfamily	 - 	 - 
+Q#11 - >Pavir.5NG322700.3.p	superfamily	274147	1	808	0	1486.96	cl37117	sucrsPsyn_pln superfamily	 - 	 - 
+Q#12 - >Pavir.5NG322700.6.p	superfamily	274147	1	762	0	1411.07	cl37117	sucrsPsyn_pln superfamily	 - 	 - 
+Q#13 - >Pavir.5NG322700.7.p	superfamily	274147	15	763	0	1371.78	cl37117	sucrsPsyn_pln superfamily	 - 	 - 
+Q#14 - >Pavir.5NG322700.8.p	superfamily	274147	20	768	0	1376.41	cl37117	sucrsPsyn_pln superfamily	 - 	 - 
+Q#15 - >Pavir.5NG407200.1.p	specific	340831	1	372	1.06761e-50	173.878	cd03801	GT4_PimA-like	 - 	cl10013
+Q#16 - >Pavir.7KG223600.1.p	superfamily	389744	49	311	1.28348e-76	234.054	cl21454	NADB_Rossmann superfamily	 - 	 - 
+Q#17 - >Pavir.7NG312300.1.p	specific	340834	21	406	0	586.478	cd03805	GT4_ALG2-like	 - 	cl10013
+Q#18 - >Pavir.8KG147100.1.p	superfamily	274147	4	1040	0	1551.29	cl37117	sucrsPsyn_pln superfamily	 - 	 - 
+Q#19 - >Pavir.8NG150800.1.p	superfamily	274147	4	703	0	1048.99	cl37117	sucrsPsyn_pln superfamily	 - 	 - 
+Q#20 - >Pavir.8NG324900.1.p	superfamily	389744	11	260	1.27716e-118	339.039	cl21454	NADB_Rossmann superfamily	 - 	 - 
+Q#21 - >Pavir.J666600.1.p	superfamily	389744	31	111	1.66181e-28	103.086	cl21454	NADB_Rossmann superfamily	C	 - 
