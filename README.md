@@ -39,3 +39,5 @@ Reocords ----- Daily Updates
 9.23.2020 ----- Gene Base
 
 9.24.2020 ----- GH Family, GT Family, Speaking Schedule, Interviews
+
+9.25.2020 ----- GT Family
