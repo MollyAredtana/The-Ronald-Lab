@@ -41,3 +41,5 @@ Reocords ----- Daily Updates
 9.24.2020 ----- GH Family, GT Family, Speaking Schedule, Interviews
 
 9.25.2020 ----- GT Family
+
+9.28.2020 ----- Daily Check
