@@ -43,3 +43,5 @@ Reocords ----- Daily Updates
 9.25.2020 ----- GT Family
 
 9.28.2020 ----- Daily Check
+
+9.29.2020 ----- Fix TT2
