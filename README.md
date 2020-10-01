@@ -47,3 +47,5 @@ Reocords ----- Daily Updates
 9.29.2020 ----- Fix TT2
 
 9.30.2020 ----- Improve Lab Meeting Page, Daily Check
+
+10.1.2020 ----- Speaking Schedule
