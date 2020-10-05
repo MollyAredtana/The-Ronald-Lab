@@ -49,3 +49,5 @@ Reocords ----- Daily Updates
 9.30.2020 ----- Improve Lab Meeting Page, Daily Check
 
 10.1.2020 ----- Speaking Schedule
+
+10.5.2020 ----- Images
