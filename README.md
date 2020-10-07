@@ -51,3 +51,7 @@ Reocords ----- Daily Updates
 10.1.2020 ----- Speaking Schedule
 
 10.5.2020 ----- Images
+
+10.6.2020 ----- Daily Check
+
+10.7.2020 ----- Press
