@@ -54,4 +54,4 @@ Reocords ----- Daily Updates
 
 10.6.2020 ----- Daily Check
 
-10.7.2020 ----- Press
+10.7.2020 ----- Press, Photos Updated
