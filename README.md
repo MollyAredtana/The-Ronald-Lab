@@ -57,3 +57,5 @@ Reocords ----- Daily Updates
 10.7.2020 ----- Press, Photos Updated
 
 10.8.2020 ----- Images, Initiatives
+
+10.9.2020 ----- Gene Analysis
