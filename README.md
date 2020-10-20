@@ -63,3 +63,5 @@ Reocords ----- Daily Updates
 10.16.2020 ----- Images
 
 10.19.2020 ----- Main Page Image Update
+
+10.20.2020 ----- Speaking Schedule Update, Image Update
