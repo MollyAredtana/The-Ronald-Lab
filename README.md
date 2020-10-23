@@ -67,3 +67,7 @@ Reocords ----- Daily Updates
 10.20.2020 ----- Speaking Schedule Update, Image Update
 
 10.21.2020 ----- Press Update
+
+10.22.2020 ----- Press Font
+
+10.23.2020 ----- Recheck Press, Daily Check
