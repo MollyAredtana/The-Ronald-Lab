@@ -73,3 +73,5 @@ Reocords ----- Daily Updates
 10.23.2020 ----- Recheck Press, Daily Check
 
 10.26.2020 ----- Daily Check, Fix Speaking Schedule Date Error
+
+10.27.2020 ----- Links Check
