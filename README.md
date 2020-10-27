@@ -71,3 +71,5 @@ Reocords ----- Daily Updates
 10.22.2020 ----- Press Font
 
 10.23.2020 ----- Recheck Press, Daily Check
+
+10.26.2020 ----- Daily Check, Fix Speaking Schedule Date Error
