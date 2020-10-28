@@ -75,3 +75,5 @@ Reocords ----- Daily Updates
 10.26.2020 ----- Daily Check, Fix Speaking Schedule Date Error
 
 10.27.2020 ----- Links Check
+
+10.28.2020 ----- Links Check, Fix the Logo On Press, Genes
