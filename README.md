@@ -77,3 +77,5 @@ Reocords ----- Daily Updates
 10.27.2020 ----- Links Check
 
 10.28.2020 ----- Links Check, Fix the Logo On Press, Genes
+
+11.2.2020 ----- Update Speaking Schedule
