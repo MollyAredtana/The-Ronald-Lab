@@ -95,3 +95,13 @@ Reocords ----- Daily Updates
 11.11.2020 ----- Links Checl
 
 11.12.2020 ----- Fix the Dates
+
+11.13.2020 ----- Fix Dates
+
+11.16.2020 ----- Updated Spaeking Schedule, Fix Links
+
+11.17.2020 ----- Blogs
+
+11.23.2020 ----- Blogs
+
+11.24.2020 ----- Mutation Program
