@@ -1,0 +1,5 @@
+Two files
+
+Main is the interface, the user will only use this one
+
+Check is the actual program to check all things
