@@ -105,3 +105,5 @@ Reocords ----- Daily Updates
 11.23.2020 ----- Blogs
 
 11.24.2020 ----- Mutation Program
+
+11.30.2020 ----- Blog, Update Speaking Schedule, Program
